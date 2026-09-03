@@ -1,0 +1,1227 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Zastal Calendar//PLK and FIBA//PL
+CALSCALE:GREGORIAN
+X-WR-CALDESC:Mecze Zastalu: ORLEN Basket Liga i FIBA Europe Cup
+NAME:🏀 Zastal Zielona Góra
+X-WR-CALNAME:🏀 Zastal Zielona Góra
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-WR-TIMEZONE:Europe/Warsaw
+BEGIN:VEVENT
+SUMMARY:🏀 Enea Łaciate Astoria Bydgoszcz – Zastal
+DTSTART:20261003T153000Z
+DTEND:20261003T174500Z
+DTSTAMP:20260903T160753Z
+UID:plk-223461@zastal-calendar
+SEQUENCE:0
+CATEGORIES:ORLEN Basket Liga,Koszykówka,Zastal
+DESCRIPTION:ORLEN Basket Liga\nSezon: 2026/2027\nRunda Zasadnicza · 1 kol
+ ejka\nGospodarze: Enea Łaciate Astoria Bydgoszcz\nGoście: Zastal Zielona
+  Góra\nStatus: Zaplanowany\nStatus źródłowy: scheduled\nID źródłowe
+ : 223461\nCzas miejscowy: 2026-10-03 17:30 (Europe/Warsaw)\nPrzewidywany c
+ zas trwania: 2 godz. 15 min.\nHala: brak potwierdzonych danych w źródle.
+ \nOficjalne źródło: https://plk.pl/mecz/223461/enea-laciate-astoria-byd
+ goszcz-vs-zastal-zielona-gora
+LAST-MODIFIED:20260903T160753Z
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://plk.pl/mecz/223461/enea-laciate-astoria-bydgoszcz-vs-zastal-zi
+ elona-gora
+X-AWAY-ID:769
+X-CONTENT-HASH:0d94776b38039a675d7b678022a96b4f5579ba0a32e0b9da870256b1830
+ e8420
+X-GAME-STATUS:scheduled
+X-HOME-ID:4162
+X-SEASON:2026/2027
+X-SOURCE:plk
+X-SOURCE-ID:223461
+X-SOURCE-STATUS:scheduled
+X-SOURCE-TIMEZONE:Europe/Warsaw
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 NHSZ-Szolnoki Olajbanyasz – Zastal
+DTSTART:20261006T160000Z
+DTEND:20261006T181500Z
+DTSTAMP:20260903T160753Z
+UID:fiba-135695@zastal-calendar
+SEQUENCE:0
+CATEGORIES:FIBA Europe Cup,Koszykówka,Zastal
+DESCRIPTION:FIBA Europe Cup\nSezon: 2026/2027\nRegular Season · B\nGospod
+ arze: NHSZ-Szolnoki Olajbanyasz\nGoście: Zastal Zielona Gora\nStatus: Zap
+ lanowany\nStatus źródłowy: INIT\nID źródłowe: 135695\nCzas miejscowy
+ : 2026-10-06 18:00 (Europe/Budapest)\nPrzewidywany czas trwania: 2 godz. 1
+ 5 min.\nOficjalne źródło: https://www.fiba.basketball/en/events/fiba-eu
+ rope-cup-26-27/games/135695-OLAJ-ZIE
+LAST-MODIFIED:20260903T160753Z
+LOCATION:Varosi Sportcsarnok\, Szolnok\, Hungary
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.fiba.basketball/en/events/fiba-europe-cup-26-27/games/1356
+ 95-OLAJ-ZIE
+X-AWAY-ID:285088
+X-CONTENT-HASH:a3420cd005c5afe0bd7defd9315ab47a3e4158a9ca0ef571f32701544ff
+ 0aca4
+X-GAME-STATUS:scheduled
+X-HOME-ID:285082
+X-SEASON:2026/2027
+X-SOURCE:fiba
+X-SOURCE-ID:135695
+X-SOURCE-STATUS:INIT
+X-SOURCE-TIMEZONE:Europe/Budapest
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Zastal – Legia Warszawa
+DTSTART:20261009T181500Z
+DTEND:20261009T203000Z
+DTSTAMP:20260903T160753Z
+UID:plk-223469@zastal-calendar
+SEQUENCE:0
+CATEGORIES:ORLEN Basket Liga,Koszykówka,Zastal
+DESCRIPTION:ORLEN Basket Liga\nSezon: 2026/2027\nRunda Zasadnicza · 2 kol
+ ejka\nGospodarze: Zastal Zielona Góra\nGoście: Legia Warszawa\nStatus: Z
+ aplanowany\nStatus źródłowy: scheduled\nID źródłowe: 223469\nCzas mi
+ ejscowy: 2026-10-09 20:15 (Europe/Warsaw)\nPrzewidywany czas trwania: 2 go
+ dz. 15 min.\nHala: brak potwierdzonych danych w źródle.\nOficjalne źró
+ dło: https://plk.pl/mecz/223469/zastal-zielona-gora-vs-legia-warszawa
+LAST-MODIFIED:20260903T160753Z
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://plk.pl/mecz/223469/zastal-zielona-gora-vs-legia-warszawa
+X-AWAY-ID:11
+X-CONTENT-HASH:9f76d433de9e94ddecf0d4b1a4ff4561a3f8ffc4bbff2c1cb0d56c49f61
+ a773c
+X-GAME-STATUS:scheduled
+X-HOME-ID:769
+X-SEASON:2026/2027
+X-SOURCE:plk
+X-SOURCE-ID:223469
+X-SOURCE-STATUS:scheduled
+X-SOURCE-TIMEZONE:Europe/Warsaw
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Zastal – Rywal do ustalenia
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+DTSTAMP:20260903T161557Z
+UID:fiba-135699@zastal-calendar
+SEQUENCE:1
+CATEGORIES:FIBA Europe Cup,Koszykówka,Zastal
+DESCRIPTION:FIBA Europe Cup\nSezon: 2026/2027\nRegular Season · B\nGospod
+ arze: Zastal Zielona Gora\nGoście: Rywal do ustalenia\nStatus: Zaplanowan
+ y\nStatus źródłowy: INIT\nID źródłowe: 135699\nGodzina do ustalenia 
+ (TBD). Data również może się zmienić.\nOficjalne źródło: https://w
+ ww.fiba.basketball/en/events/fiba-europe-cup-26-27/games
+LAST-MODIFIED:20260903T161557Z
+LOCATION:Centrum Rekreacyjno-Sportowe Zielona Gora\, Zielona Gora\, Poland
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://www.fiba.basketball/en/events/fiba-europe-cup-26-27/games
+X-AWAY-ID:TBD
+X-CONTENT-HASH:0539a4af2adc13b69cfc2075749e81c9c6e39543c78043885c44a5593d2
+ b024d
+X-GAME-STATUS:scheduled
+X-HOME-ID:285088
+X-SEASON:2026/2027
+X-SOURCE:fiba
+X-SOURCE-ID:135699
+X-SOURCE-STATUS:INIT
+X-SOURCE-TIMEZONE:Europe/Warsaw
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 GTK Gliwice – Zastal
+DTSTART:20261017T130000Z
+DTEND:20261017T151500Z
+DTSTAMP:20260903T160753Z
+UID:plk-223477@zastal-calendar
+SEQUENCE:0
+CATEGORIES:ORLEN Basket Liga,Koszykówka,Zastal
+DESCRIPTION:ORLEN Basket Liga\nSezon: 2026/2027\nRunda Zasadnicza · 3 kol
+ ejka\nGospodarze: GTK Gliwice\nGoście: Zastal Zielona Góra\nStatus: Zapl
+ anowany\nStatus źródłowy: scheduled\nID źródłowe: 223477\nCzas miejs
+ cowy: 2026-10-17 15:00 (Europe/Warsaw)\nPrzewidywany czas trwania: 2 godz.
+  15 min.\nHala: brak potwierdzonych danych w źródle.\nOficjalne źródł
+ o: https://plk.pl/mecz/223477/gtk-gliwice-vs-zastal-zielona-gora
+LAST-MODIFIED:20260903T160753Z
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://plk.pl/mecz/223477/gtk-gliwice-vs-zastal-zielona-gora
+X-AWAY-ID:769
+X-CONTENT-HASH:c436974b8bace4357cbe9a74a2ba5f840d83d330ba7458cd3fd1f59d68d
+ b902f
+X-GAME-STATUS:scheduled
+X-HOME-ID:2310
+X-SEASON:2026/2027
+X-SOURCE:plk
+X-SOURCE-ID:223477
+X-SOURCE-STATUS:scheduled
+X-SOURCE-TIMEZONE:Europe/Warsaw
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 FIATC Girona – Zastal
+DTSTART:20261020T180000Z
+DTEND:20261020T201500Z
+DTSTAMP:20260903T160753Z
+UID:fiba-135702@zastal-calendar
+SEQUENCE:0
+CATEGORIES:FIBA Europe Cup,Koszykówka,Zastal
+DESCRIPTION:FIBA Europe Cup\nSezon: 2026/2027\nRegular Season · B\nGospod
+ arze: FIATC Girona\nGoście: Zastal Zielona Gora\nStatus: Zaplanowany\nSta
+ tus źródłowy: INIT\nID źródłowe: 135702\nCzas miejscowy: 2026-10-20 
+ 20:00 (Europe/Madrid)\nPrzewidywany czas trwania: 2 godz. 15 min.\nOficjal
+ ne źródło: https://www.fiba.basketball/en/events/fiba-europe-cup-26-27/
+ games/135702-GIR-ZIE
+LAST-MODIFIED:20260903T160753Z
+LOCATION:Pavello Fontajau\, Girona\, Spain
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.fiba.basketball/en/events/fiba-europe-cup-26-27/games/1357
+ 02-GIR-ZIE
+X-AWAY-ID:285088
+X-CONTENT-HASH:104e47b86c58731254e059df9259b3dd305f687f431e4ef218dfd747253
+ adb12
+X-GAME-STATUS:scheduled
+X-HOME-ID:285107
+X-SEASON:2026/2027
+X-SOURCE:fiba
+X-SOURCE-ID:135702
+X-SOURCE-STATUS:INIT
+X-SOURCE-TIMEZONE:Europe/Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Zastal – Anwil Włocławek
+DTSTART:20261024T153000Z
+DTEND:20261024T174500Z
+DTSTAMP:20260903T160753Z
+UID:plk-223485@zastal-calendar
+SEQUENCE:0
+CATEGORIES:ORLEN Basket Liga,Koszykówka,Zastal
+DESCRIPTION:ORLEN Basket Liga\nSezon: 2026/2027\nRunda Zasadnicza · 4 kol
+ ejka\nGospodarze: Zastal Zielona Góra\nGoście: Anwil Włocławek\nStatus
+ : Zaplanowany\nStatus źródłowy: scheduled\nID źródłowe: 223485\nCzas
+  miejscowy: 2026-10-24 17:30 (Europe/Warsaw)\nPrzewidywany czas trwania: 2
+  godz. 15 min.\nHala: brak potwierdzonych danych w źródle.\nOficjalne ź
+ ródło: https://plk.pl/mecz/223485/zastal-zielona-gora-vs-anwil-wloclawek
+LAST-MODIFIED:20260903T160753Z
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://plk.pl/mecz/223485/zastal-zielona-gora-vs-anwil-wloclawek
+X-AWAY-ID:33
+X-CONTENT-HASH:77497eae29ff8fd29d845ca21edf1bde0e18ae6dbb3030e8a6be95f2cbe
+ a745f
+X-GAME-STATUS:scheduled
+X-HOME-ID:769
+X-SEASON:2026/2027
+X-SOURCE:plk
+X-SOURCE-ID:223485
+X-SOURCE-STATUS:scheduled
+X-SOURCE-TIMEZONE:Europe/Warsaw
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Zastal – Coretec Oostende
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+DTSTAMP:20260903T160753Z
+UID:fiba-135704@zastal-calendar
+SEQUENCE:0
+CATEGORIES:FIBA Europe Cup,Koszykówka,Zastal
+DESCRIPTION:FIBA Europe Cup\nSezon: 2026/2027\nRegular Season · B\nGospod
+ arze: Zastal Zielona Gora\nGoście: Coretec Oostende\nStatus: Zaplanowany
+ \nStatus źródłowy: INIT\nID źródłowe: 135704\nGodzina do ustalenia (
+ TBD). Data również może się zmienić.\nOficjalne źródło: https://ww
+ w.fiba.basketball/en/events/fiba-europe-cup-26-27/games/135704-ZIE-BCO
+LAST-MODIFIED:20260903T160753Z
+LOCATION:Centrum Rekreacyjno-Sportowe Zielona Gora\, Zielona Gora\, Poland
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://www.fiba.basketball/en/events/fiba-europe-cup-26-27/games/1357
+ 04-ZIE-BCO
+X-AWAY-ID:285308
+X-CONTENT-HASH:094b5a83475a51ed064fdb399100409db0f90e78673dec9c73e62718f72
+ 7e4dd
+X-GAME-STATUS:scheduled
+X-HOME-ID:285088
+X-SEASON:2026/2027
+X-SOURCE:fiba
+X-SOURCE-ID:135704
+X-SOURCE-STATUS:INIT
+X-SOURCE-TIMEZONE:Europe/Warsaw
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Arriva Lotto Twarde Pierniki Toruń – Zastal
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+DTSTAMP:20260903T160753Z
+UID:plk-223493@zastal-calendar
+SEQUENCE:0
+CATEGORIES:ORLEN Basket Liga,Koszykówka,Zastal
+DESCRIPTION:ORLEN Basket Liga\nSezon: 2026/2027\nRunda Zasadnicza · 5 kol
+ ejka\nGospodarze: Arriva Lotto Twarde Pierniki Toruń\nGoście: Zastal Zie
+ lona Góra\nStatus: Zaplanowany\nStatus źródłowy: scheduled\nID źród
+ łowe: 223493\nGodzina do ustalenia (TBD). Data również może się zmien
+ ić.\nHala: brak potwierdzonych danych w źródle.\nOficjalne źródło: h
+ ttps://plk.pl/mecz/223493/arriva-lotto-twarde-pierniki-torun-vs-zastal-zie
+ lona-gora
+LAST-MODIFIED:20260903T160753Z
+LOCATION:
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://plk.pl/mecz/223493/arriva-lotto-twarde-pierniki-torun-vs-zasta
+ l-zielona-gora
+X-AWAY-ID:769
+X-CONTENT-HASH:cb4a0f6e16576f1febb5bb3dd9d08c67608899d22a7f1cb47679a395f92
+ 288c3
+X-GAME-STATUS:scheduled
+X-HOME-ID:101
+X-SEASON:2026/2027
+X-SOURCE:plk
+X-SOURCE-ID:223493
+X-SOURCE-STATUS:scheduled
+X-SOURCE-TIMEZONE:Europe/Warsaw
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Zastal – Rywal do ustalenia
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+DTSTAMP:20260903T161557Z
+UID:fiba-135706@zastal-calendar
+SEQUENCE:1
+CATEGORIES:FIBA Europe Cup,Koszykówka,Zastal
+DESCRIPTION:FIBA Europe Cup\nSezon: 2026/2027\nRegular Season · B\nGospod
+ arze: Zastal Zielona Gora\nGoście: Rywal do ustalenia\nStatus: Zaplanowan
+ y\nStatus źródłowy: INIT\nID źródłowe: 135706\nGodzina do ustalenia 
+ (TBD). Data również może się zmienić.\nOficjalne źródło: https://w
+ ww.fiba.basketball/en/events/fiba-europe-cup-26-27/games
+LAST-MODIFIED:20260903T161557Z
+LOCATION:Centrum Rekreacyjno-Sportowe Zielona Gora\, Zielona Gora\, Poland
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://www.fiba.basketball/en/events/fiba-europe-cup-26-27/games
+X-AWAY-ID:TBD
+X-CONTENT-HASH:47363bc8d07e812e46131adb3aad3e217289d0b22d8bd698adc840d4248
+ 82034
+X-GAME-STATUS:scheduled
+X-HOME-ID:285088
+X-SEASON:2026/2027
+X-SOURCE:fiba
+X-SOURCE-ID:135706
+X-SOURCE-STATUS:INIT
+X-SOURCE-TIMEZONE:Europe/Warsaw
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Tasomix Rosiek Stal Ostrów Wielkopolski – Zastal
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+DTSTAMP:20260903T160753Z
+UID:plk-223501@zastal-calendar
+SEQUENCE:0
+CATEGORIES:ORLEN Basket Liga,Koszykówka,Zastal
+DESCRIPTION:ORLEN Basket Liga\nSezon: 2026/2027\nRunda Zasadnicza · 6 kol
+ ejka\nGospodarze: Tasomix Rosiek Stal Ostrów Wielkopolski\nGoście: Zasta
+ l Zielona Góra\nStatus: Zaplanowany\nStatus źródłowy: scheduled\nID ź
+ ródłowe: 223501\nGodzina do ustalenia (TBD). Data również może się z
+ mienić.\nHala: brak potwierdzonych danych w źródle.\nOficjalne źródł
+ o: https://plk.pl/mecz/223501/tasomix-rosiek-stal-ostrow-wielkopolski-vs-z
+ astal-zielona-gora
+LAST-MODIFIED:20260903T160753Z
+LOCATION:
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://plk.pl/mecz/223501/tasomix-rosiek-stal-ostrow-wielkopolski-vs-
+ zastal-zielona-gora
+X-AWAY-ID:769
+X-CONTENT-HASH:2956e92870a5f1bfd2bb4ce0841b720766fc6c646c8ae35e3d40176d37b
+ 2451a
+X-GAME-STATUS:scheduled
+X-HOME-ID:11309
+X-SEASON:2026/2027
+X-SOURCE:plk
+X-SOURCE-ID:223501
+X-SOURCE-STATUS:scheduled
+X-SOURCE-TIMEZONE:Europe/Warsaw
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Zastal – NHSZ-Szolnoki Olajbanyasz
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+DTSTAMP:20260903T160753Z
+UID:fiba-135710@zastal-calendar
+SEQUENCE:0
+CATEGORIES:FIBA Europe Cup,Koszykówka,Zastal
+DESCRIPTION:FIBA Europe Cup\nSezon: 2026/2027\nRegular Season · B\nGospod
+ arze: Zastal Zielona Gora\nGoście: NHSZ-Szolnoki Olajbanyasz\nStatus: Zap
+ lanowany\nStatus źródłowy: INIT\nID źródłowe: 135710\nGodzina do ust
+ alenia (TBD). Data również może się zmienić.\nOficjalne źródło: ht
+ tps://www.fiba.basketball/en/events/fiba-europe-cup-26-27/games/135710-ZIE
+ -OLAJ
+LAST-MODIFIED:20260903T160753Z
+LOCATION:Centrum Rekreacyjno-Sportowe Zielona Gora\, Zielona Gora\, Poland
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://www.fiba.basketball/en/events/fiba-europe-cup-26-27/games/1357
+ 10-ZIE-OLAJ
+X-AWAY-ID:285082
+X-CONTENT-HASH:48e97997031fd70951334ce231ee37f7710538d4753426b5cfd0afa98b8
+ 6e83e
+X-GAME-STATUS:scheduled
+X-HOME-ID:285088
+X-SEASON:2026/2027
+X-SOURCE:fiba
+X-SOURCE-ID:135710
+X-SOURCE-STATUS:INIT
+X-SOURCE-TIMEZONE:Europe/Warsaw
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 WKS Śląsk Wrocław – Zastal
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+DTSTAMP:20260903T160753Z
+UID:plk-223509@zastal-calendar
+SEQUENCE:0
+CATEGORIES:ORLEN Basket Liga,Koszykówka,Zastal
+DESCRIPTION:ORLEN Basket Liga\nSezon: 2026/2027\nRunda Zasadnicza · 7 kol
+ ejka\nGospodarze: WKS Śląsk Wrocław\nGoście: Zastal Zielona Góra\nSta
+ tus: Zaplanowany\nStatus źródłowy: scheduled\nID źródłowe: 223509\nG
+ odzina do ustalenia (TBD). Data również może się zmienić.\nHala: brak
+  potwierdzonych danych w źródle.\nOficjalne źródło: https://plk.pl/me
+ cz/223509/wks-slask-wroclaw-vs-zastal-zielona-gora
+LAST-MODIFIED:20260903T160753Z
+LOCATION:
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://plk.pl/mecz/223509/wks-slask-wroclaw-vs-zastal-zielona-gora
+X-AWAY-ID:769
+X-CONTENT-HASH:1c4bdb627e2137b270d90d0c0a2b402ac095800f822cd5e703fdd972a98
+ 67558
+X-GAME-STATUS:scheduled
+X-HOME-ID:110
+X-SEASON:2026/2027
+X-SOURCE:plk
+X-SOURCE-ID:223509
+X-SOURCE-STATUS:scheduled
+X-SOURCE-TIMEZONE:Europe/Warsaw
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Rywal do ustalenia – Zastal
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+DTSTAMP:20260903T161557Z
+UID:fiba-135714@zastal-calendar
+SEQUENCE:1
+CATEGORIES:FIBA Europe Cup,Koszykówka,Zastal
+DESCRIPTION:FIBA Europe Cup\nSezon: 2026/2027\nRegular Season · B\nGospod
+ arze: Rywal do ustalenia\nGoście: Zastal Zielona Gora\nStatus: Zaplanowan
+ y\nStatus źródłowy: INIT\nID źródłowe: 135714\nGodzina do ustalenia 
+ (TBD). Data również może się zmienić.\nHala: brak potwierdzonych dany
+ ch w źródle.\nOficjalne źródło: https://www.fiba.basketball/en/events
+ /fiba-europe-cup-26-27/games
+LAST-MODIFIED:20260903T161557Z
+LOCATION:
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://www.fiba.basketball/en/events/fiba-europe-cup-26-27/games
+X-AWAY-ID:285088
+X-CONTENT-HASH:ce2dea0304a2828e977a79a401ac9e47f9f5f63eaee7f15afda72cecdfe
+ 5c625
+X-GAME-STATUS:scheduled
+X-HOME-ID:TBD
+X-SEASON:2026/2027
+X-SOURCE:fiba
+X-SOURCE-ID:135714
+X-SOURCE-STATUS:INIT
+X-SOURCE-TIMEZONE:TBD
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Zastal – Dziki Warszawa
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+DTSTAMP:20260903T160753Z
+UID:plk-223517@zastal-calendar
+SEQUENCE:0
+CATEGORIES:ORLEN Basket Liga,Koszykówka,Zastal
+DESCRIPTION:ORLEN Basket Liga\nSezon: 2026/2027\nRunda Zasadnicza · 8 kol
+ ejka\nGospodarze: Zastal Zielona Góra\nGoście: Dziki Warszawa\nStatus: Z
+ aplanowany\nStatus źródłowy: scheduled\nID źródłowe: 223517\nGodzina
+  do ustalenia (TBD). Data również może się zmienić.\nHala: brak potwi
+ erdzonych danych w źródle.\nOficjalne źródło: https://plk.pl/mecz/223
+ 517/zastal-zielona-gora-vs-dziki-warszawa
+LAST-MODIFIED:20260903T160753Z
+LOCATION:
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://plk.pl/mecz/223517/zastal-zielona-gora-vs-dziki-warszawa
+X-AWAY-ID:11257
+X-CONTENT-HASH:5fa2af75608c7abee435c60bad9bc5e1d6d26dff9be9b3f64f6b48298f7
+ ec5fd
+X-GAME-STATUS:scheduled
+X-HOME-ID:769
+X-SEASON:2026/2027
+X-SOURCE:plk
+X-SOURCE-ID:223517
+X-SOURCE-STATUS:scheduled
+X-SOURCE-TIMEZONE:Europe/Warsaw
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Energa Trefl Sopot – Zastal
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+DTSTAMP:20260903T160753Z
+UID:plk-223525@zastal-calendar
+SEQUENCE:0
+CATEGORIES:ORLEN Basket Liga,Koszykówka,Zastal
+DESCRIPTION:ORLEN Basket Liga\nSezon: 2026/2027\nRunda Zasadnicza · 9 kol
+ ejka\nGospodarze: Energa Trefl Sopot\nGoście: Zastal Zielona Góra\nStatu
+ s: Zaplanowany\nStatus źródłowy: scheduled\nID źródłowe: 223525\nGod
+ zina do ustalenia (TBD). Data również może się zmienić.\nHala: brak p
+ otwierdzonych danych w źródle.\nOficjalne źródło: https://plk.pl/mecz
+ /223525/energa-trefl-sopot-vs-zastal-zielona-gora
+LAST-MODIFIED:20260903T160753Z
+LOCATION:
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://plk.pl/mecz/223525/energa-trefl-sopot-vs-zastal-zielona-gora
+X-AWAY-ID:769
+X-CONTENT-HASH:1d521d340f52756611bcec0d3a6b7f9b02b86290a17e08425817afd3834
+ 3146d
+X-GAME-STATUS:scheduled
+X-HOME-ID:112
+X-SEASON:2026/2027
+X-SOURCE:plk
+X-SOURCE-ID:223525
+X-SOURCE-STATUS:scheduled
+X-SOURCE-TIMEZONE:Europe/Warsaw
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Zastal – FIATC Girona
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+DTSTAMP:20260903T160753Z
+UID:fiba-135717@zastal-calendar
+SEQUENCE:0
+CATEGORIES:FIBA Europe Cup,Koszykówka,Zastal
+DESCRIPTION:FIBA Europe Cup\nSezon: 2026/2027\nRegular Season · B\nGospod
+ arze: Zastal Zielona Gora\nGoście: FIATC Girona\nStatus: Zaplanowany\nSta
+ tus źródłowy: INIT\nID źródłowe: 135717\nGodzina do ustalenia (TBD).
+  Data również może się zmienić.\nOficjalne źródło: https://www.fib
+ a.basketball/en/events/fiba-europe-cup-26-27/games/135717-ZIE-GIR
+LAST-MODIFIED:20260903T160753Z
+LOCATION:Centrum Rekreacyjno-Sportowe Zielona Gora\, Zielona Gora\, Poland
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://www.fiba.basketball/en/events/fiba-europe-cup-26-27/games/1357
+ 17-ZIE-GIR
+X-AWAY-ID:285107
+X-CONTENT-HASH:c334dcdcf682ea4b0f5cf2dd0e109c960dbb95a7fd811480a116582da58
+ 21ff7
+X-GAME-STATUS:scheduled
+X-HOME-ID:285088
+X-SEASON:2026/2027
+X-SOURCE:fiba
+X-SOURCE-ID:135717
+X-SOURCE-STATUS:INIT
+X-SOURCE-TIMEZONE:Europe/Warsaw
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Zastal – AMW Arka Gdynia
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+DTSTAMP:20260903T160753Z
+UID:plk-223533@zastal-calendar
+SEQUENCE:0
+CATEGORIES:ORLEN Basket Liga,Koszykówka,Zastal
+DESCRIPTION:ORLEN Basket Liga\nSezon: 2026/2027\nRunda Zasadnicza · 10 ko
+ lejka\nGospodarze: Zastal Zielona Góra\nGoście: AMW Arka Gdynia\nStatus:
+  Zaplanowany\nStatus źródłowy: scheduled\nID źródłowe: 223533\nGodzi
+ na do ustalenia (TBD). Data również może się zmienić.\nHala: brak pot
+ wierdzonych danych w źródle.\nOficjalne źródło: https://plk.pl/mecz/2
+ 23533/zastal-zielona-gora-vs-amw-arka-gdynia
+LAST-MODIFIED:20260903T160753Z
+LOCATION:
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://plk.pl/mecz/223533/zastal-zielona-gora-vs-amw-arka-gdynia
+X-AWAY-ID:121
+X-CONTENT-HASH:699022ad50444d798e66279ebfaedf3cd8fed2433d5b78371002946c5b2
+ caa0f
+X-GAME-STATUS:scheduled
+X-HOME-ID:769
+X-SEASON:2026/2027
+X-SOURCE:plk
+X-SOURCE-ID:223533
+X-SOURCE-STATUS:scheduled
+X-SOURCE-TIMEZONE:Europe/Warsaw
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Coretec Oostende – Zastal
+DTSTART:20261215T193000Z
+DTEND:20261215T214500Z
+DTSTAMP:20260903T160753Z
+UID:fiba-135719@zastal-calendar
+SEQUENCE:0
+CATEGORIES:FIBA Europe Cup,Koszykówka,Zastal
+DESCRIPTION:FIBA Europe Cup\nSezon: 2026/2027\nRegular Season · B\nGospod
+ arze: Coretec Oostende\nGoście: Zastal Zielona Gora\nStatus: Zaplanowany
+ \nStatus źródłowy: INIT\nID źródłowe: 135719\nCzas miejscowy: 2026-1
+ 2-15 20:30 (Europe/Brussels)\nPrzewidywany czas trwania: 2 godz. 15 min.\n
+ Oficjalne źródło: https://www.fiba.basketball/en/events/fiba-europe-cup
+ -26-27/games/135719-BCO-ZIE
+LAST-MODIFIED:20260903T160753Z
+LOCATION:COREtec Dôme\, Oostende\, Belgium
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.fiba.basketball/en/events/fiba-europe-cup-26-27/games/1357
+ 19-BCO-ZIE
+X-AWAY-ID:285088
+X-CONTENT-HASH:110dd073a239261398d605bb25fdeebba40e0dea7ed53fda867e18ecf0b
+ 626a4
+X-GAME-STATUS:scheduled
+X-HOME-ID:285308
+X-SEASON:2026/2027
+X-SOURCE:fiba
+X-SOURCE-ID:135719
+X-SOURCE-STATUS:INIT
+X-SOURCE-TIMEZONE:Europe/Brussels
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 PGE Start Lublin – Zastal
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+DTSTAMP:20260903T160753Z
+UID:plk-223541@zastal-calendar
+SEQUENCE:0
+CATEGORIES:ORLEN Basket Liga,Koszykówka,Zastal
+DESCRIPTION:ORLEN Basket Liga\nSezon: 2026/2027\nRunda Zasadnicza · 11 ko
+ lejka\nGospodarze: PGE Start Lublin\nGoście: Zastal Zielona Góra\nStatus
+ : Zaplanowany\nStatus źródłowy: scheduled\nID źródłowe: 223541\nGodz
+ ina do ustalenia (TBD). Data również może się zmienić.\nHala: brak po
+ twierdzonych danych w źródle.\nOficjalne źródło: https://plk.pl/mecz/
+ 223541/pge-start-lublin-vs-zastal-zielona-gora
+LAST-MODIFIED:20260903T160753Z
+LOCATION:
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://plk.pl/mecz/223541/pge-start-lublin-vs-zastal-zielona-gora
+X-AWAY-ID:769
+X-CONTENT-HASH:7673ddc9d4c9710116cabd879b254aa884b4bdb6367b4e573c5bcc10128
+ ce85b
+X-GAME-STATUS:scheduled
+X-HOME-ID:22
+X-SEASON:2026/2027
+X-SOURCE:plk
+X-SOURCE-ID:223541
+X-SOURCE-STATUS:scheduled
+X-SOURCE-TIMEZONE:Europe/Warsaw
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Rywal do ustalenia – Zastal
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+DTSTAMP:20260903T161557Z
+UID:fiba-135721@zastal-calendar
+SEQUENCE:1
+CATEGORIES:FIBA Europe Cup,Koszykówka,Zastal
+DESCRIPTION:FIBA Europe Cup\nSezon: 2026/2027\nRegular Season · B\nGospod
+ arze: Rywal do ustalenia\nGoście: Zastal Zielona Gora\nStatus: Zaplanowan
+ y\nStatus źródłowy: INIT\nID źródłowe: 135721\nGodzina do ustalenia 
+ (TBD). Data również może się zmienić.\nHala: brak potwierdzonych dany
+ ch w źródle.\nOficjalne źródło: https://www.fiba.basketball/en/events
+ /fiba-europe-cup-26-27/games
+LAST-MODIFIED:20260903T161557Z
+LOCATION:
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://www.fiba.basketball/en/events/fiba-europe-cup-26-27/games
+X-AWAY-ID:285088
+X-CONTENT-HASH:addab666dbea2d169c99bb69970f514f66f837b9a3052d3da30ee1a9a20
+ ac084
+X-GAME-STATUS:scheduled
+X-HOME-ID:TBD
+X-SEASON:2026/2027
+X-SOURCE:fiba
+X-SOURCE-ID:135721
+X-SOURCE-STATUS:INIT
+X-SOURCE-TIMEZONE:TBD
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Zastal – King Szczecin
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+DTSTAMP:20260903T160753Z
+UID:plk-223549@zastal-calendar
+SEQUENCE:0
+CATEGORIES:ORLEN Basket Liga,Koszykówka,Zastal
+DESCRIPTION:ORLEN Basket Liga\nSezon: 2026/2027\nRunda Zasadnicza · 12 ko
+ lejka\nGospodarze: Zastal Zielona Góra\nGoście: King Szczecin\nStatus: Z
+ aplanowany\nStatus źródłowy: scheduled\nID źródłowe: 223549\nGodzina
+  do ustalenia (TBD). Data również może się zmienić.\nHala: brak potwi
+ erdzonych danych w źródle.\nOficjalne źródło: https://plk.pl/mecz/223
+ 549/zastal-zielona-gora-vs-king-szczecin
+LAST-MODIFIED:20260903T160753Z
+LOCATION:
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://plk.pl/mecz/223549/zastal-zielona-gora-vs-king-szczecin
+X-AWAY-ID:943
+X-CONTENT-HASH:d242c6fef88bc2afce980fdd6dd6493af6755ba139b709c0bd443ae114b
+ 3ae20
+X-GAME-STATUS:scheduled
+X-HOME-ID:769
+X-SEASON:2026/2027
+X-SOURCE:plk
+X-SOURCE-ID:223549
+X-SOURCE-STATUS:scheduled
+X-SOURCE-TIMEZONE:Europe/Warsaw
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Górnik Zamek Książ Wałbrzych – Zastal
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+DTSTAMP:20260903T160753Z
+UID:plk-223557@zastal-calendar
+SEQUENCE:0
+CATEGORIES:ORLEN Basket Liga,Koszykówka,Zastal
+DESCRIPTION:ORLEN Basket Liga\nSezon: 2026/2027\nRunda Zasadnicza · 13 ko
+ lejka\nGospodarze: Górnik Zamek Książ Wałbrzych\nGoście: Zastal Zielo
+ na Góra\nStatus: Zaplanowany\nStatus źródłowy: scheduled\nID źródło
+ we: 223557\nGodzina do ustalenia (TBD). Data również może się zmienić
+ .\nHala: brak potwierdzonych danych w źródle.\nOficjalne źródło: http
+ s://plk.pl/mecz/223557/gornik-zamek-ksiaz-walbrzych-vs-zastal-zielona-gora
+LAST-MODIFIED:20260903T160753Z
+LOCATION:
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://plk.pl/mecz/223557/gornik-zamek-ksiaz-walbrzych-vs-zastal-ziel
+ ona-gora
+X-AWAY-ID:769
+X-CONTENT-HASH:179181751a3382500e1322e3095976bbdd057e50c01429221a7304cfb83
+ 0c2ea
+X-GAME-STATUS:scheduled
+X-HOME-ID:11296
+X-SEASON:2026/2027
+X-SOURCE:plk
+X-SOURCE-ID:223557
+X-SOURCE-STATUS:scheduled
+X-SOURCE-TIMEZONE:Europe/Warsaw
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Zastal – MKS Dąbrowa Górnicza
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+DTSTAMP:20260903T160753Z
+UID:plk-223565@zastal-calendar
+SEQUENCE:0
+CATEGORIES:ORLEN Basket Liga,Koszykówka,Zastal
+DESCRIPTION:ORLEN Basket Liga\nSezon: 2026/2027\nRunda Zasadnicza · 14 ko
+ lejka\nGospodarze: Zastal Zielona Góra\nGoście: MKS Dąbrowa Górnicza\n
+ Status: Zaplanowany\nStatus źródłowy: scheduled\nID źródłowe: 223565
+ \nGodzina do ustalenia (TBD). Data również może się zmienić.\nHala: b
+ rak potwierdzonych danych w źródle.\nOficjalne źródło: https://plk.pl
+ /mecz/223565/zastal-zielona-gora-vs-mks-dabrowa-gornicza
+LAST-MODIFIED:20260903T160753Z
+LOCATION:
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://plk.pl/mecz/223565/zastal-zielona-gora-vs-mks-dabrowa-gornicza
+X-AWAY-ID:1490
+X-CONTENT-HASH:7b724713b13c141e6ab3a9f9305904d0e2be2d3ac7230ba79ab64947ed5
+ d6edf
+X-GAME-STATUS:scheduled
+X-HOME-ID:769
+X-SEASON:2026/2027
+X-SOURCE:plk
+X-SOURCE-ID:223565
+X-SOURCE-STATUS:scheduled
+X-SOURCE-TIMEZONE:Europe/Warsaw
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Energa Czarni Słupsk – Zastal
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+DTSTAMP:20260903T160753Z
+UID:plk-223573@zastal-calendar
+SEQUENCE:0
+CATEGORIES:ORLEN Basket Liga,Koszykówka,Zastal
+DESCRIPTION:ORLEN Basket Liga\nSezon: 2026/2027\nRunda Zasadnicza · 15 ko
+ lejka\nGospodarze: Energa Czarni Słupsk\nGoście: Zastal Zielona Góra\nS
+ tatus: Zaplanowany\nStatus źródłowy: scheduled\nID źródłowe: 223573
+ \nGodzina do ustalenia (TBD). Data również może się zmienić.\nHala: b
+ rak potwierdzonych danych w źródle.\nOficjalne źródło: https://plk.pl
+ /mecz/223573/energa-czarni-slupsk-vs-zastal-zielona-gora
+LAST-MODIFIED:20260903T160753Z
+LOCATION:
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://plk.pl/mecz/223573/energa-czarni-slupsk-vs-zastal-zielona-gora
+X-AWAY-ID:769
+X-CONTENT-HASH:11a423a9de646d096c889e574b5b23606f6eedef498b6e00ce3d53a4ab0
+ e57fd
+X-GAME-STATUS:scheduled
+X-HOME-ID:8607
+X-SEASON:2026/2027
+X-SOURCE:plk
+X-SOURCE-ID:223573
+X-SOURCE-STATUS:scheduled
+X-SOURCE-TIMEZONE:Europe/Warsaw
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Zastal – WKS Śląsk Wrocław
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+DTSTAMP:20260903T160753Z
+UID:plk-223584@zastal-calendar
+SEQUENCE:0
+CATEGORIES:ORLEN Basket Liga,Koszykówka,Zastal
+DESCRIPTION:ORLEN Basket Liga\nSezon: 2026/2027\nRunda Zasadnicza · 16 ko
+ lejka\nGospodarze: Zastal Zielona Góra\nGoście: WKS Śląsk Wrocław\nSt
+ atus: Zaplanowany\nStatus źródłowy: scheduled\nID źródłowe: 223584\n
+ Godzina do ustalenia (TBD). Data również może się zmienić.\nHala: bra
+ k potwierdzonych danych w źródle.\nOficjalne źródło: https://plk.pl/m
+ ecz/223584/zastal-zielona-gora-vs-wks-slask-wroclaw
+LAST-MODIFIED:20260903T160753Z
+LOCATION:
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://plk.pl/mecz/223584/zastal-zielona-gora-vs-wks-slask-wroclaw
+X-AWAY-ID:110
+X-CONTENT-HASH:0f057b930771d988bd52052c46a88a8f381d1d0383421e1f7001e074eb8
+ 2524c
+X-GAME-STATUS:scheduled
+X-HOME-ID:769
+X-SEASON:2026/2027
+X-SOURCE:plk
+X-SOURCE-ID:223584
+X-SOURCE-STATUS:scheduled
+X-SOURCE-TIMEZONE:Europe/Warsaw
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Zastal – Energa Czarni Słupsk
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+DTSTAMP:20260903T160753Z
+UID:plk-223593@zastal-calendar
+SEQUENCE:0
+CATEGORIES:ORLEN Basket Liga,Koszykówka,Zastal
+DESCRIPTION:ORLEN Basket Liga\nSezon: 2026/2027\nRunda Zasadnicza · 17 ko
+ lejka\nGospodarze: Zastal Zielona Góra\nGoście: Energa Czarni Słupsk\nS
+ tatus: Zaplanowany\nStatus źródłowy: scheduled\nID źródłowe: 223593
+ \nGodzina do ustalenia (TBD). Data również może się zmienić.\nHala: b
+ rak potwierdzonych danych w źródle.\nOficjalne źródło: https://plk.pl
+ /mecz/223593/zastal-zielona-gora-vs-energa-czarni-slupsk
+LAST-MODIFIED:20260903T160753Z
+LOCATION:
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://plk.pl/mecz/223593/zastal-zielona-gora-vs-energa-czarni-slupsk
+X-AWAY-ID:8607
+X-CONTENT-HASH:e3af61270ebaeaace37733ec3f6fffbc8088196a53da9425295d9a427fe
+ 70764
+X-GAME-STATUS:scheduled
+X-HOME-ID:769
+X-SEASON:2026/2027
+X-SOURCE:plk
+X-SOURCE-ID:223593
+X-SOURCE-STATUS:scheduled
+X-SOURCE-TIMEZONE:Europe/Warsaw
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Anwil Włocławek – Zastal
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+DTSTAMP:20260903T160753Z
+UID:plk-223601@zastal-calendar
+SEQUENCE:0
+CATEGORIES:ORLEN Basket Liga,Koszykówka,Zastal
+DESCRIPTION:ORLEN Basket Liga\nSezon: 2026/2027\nRunda Zasadnicza · 18 ko
+ lejka\nGospodarze: Anwil Włocławek\nGoście: Zastal Zielona Góra\nStatu
+ s: Zaplanowany\nStatus źródłowy: scheduled\nID źródłowe: 223601\nGod
+ zina do ustalenia (TBD). Data również może się zmienić.\nHala: brak p
+ otwierdzonych danych w źródle.\nOficjalne źródło: https://plk.pl/mecz
+ /223601/anwil-wloclawek-vs-zastal-zielona-gora
+LAST-MODIFIED:20260903T160753Z
+LOCATION:
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://plk.pl/mecz/223601/anwil-wloclawek-vs-zastal-zielona-gora
+X-AWAY-ID:769
+X-CONTENT-HASH:7e6203575ed85bdf0fb60de8ae06e55eca04d7d6d81a8827030cd77b061
+ 5f564
+X-GAME-STATUS:scheduled
+X-HOME-ID:33
+X-SEASON:2026/2027
+X-SOURCE:plk
+X-SOURCE-ID:223601
+X-SOURCE-STATUS:scheduled
+X-SOURCE-TIMEZONE:Europe/Warsaw
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 AMW Arka Gdynia – Zastal
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+DTSTAMP:20260903T160753Z
+UID:plk-223608@zastal-calendar
+SEQUENCE:0
+CATEGORIES:ORLEN Basket Liga,Koszykówka,Zastal
+DESCRIPTION:ORLEN Basket Liga\nSezon: 2026/2027\nRunda Zasadnicza · 19 ko
+ lejka\nGospodarze: AMW Arka Gdynia\nGoście: Zastal Zielona Góra\nStatus:
+  Zaplanowany\nStatus źródłowy: scheduled\nID źródłowe: 223608\nGodzi
+ na do ustalenia (TBD). Data również może się zmienić.\nHala: brak pot
+ wierdzonych danych w źródle.\nOficjalne źródło: https://plk.pl/mecz/2
+ 23608/amw-arka-gdynia-vs-zastal-zielona-gora
+LAST-MODIFIED:20260903T160753Z
+LOCATION:
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://plk.pl/mecz/223608/amw-arka-gdynia-vs-zastal-zielona-gora
+X-AWAY-ID:769
+X-CONTENT-HASH:d481d8f8cac137ee0c61bf5efbe5fcfc254f7f075c823260f63d505bb16
+ f957a
+X-GAME-STATUS:scheduled
+X-HOME-ID:121
+X-SEASON:2026/2027
+X-SOURCE:plk
+X-SOURCE-ID:223608
+X-SOURCE-STATUS:scheduled
+X-SOURCE-TIMEZONE:Europe/Warsaw
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Zastal – GTK Gliwice
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+DTSTAMP:20260903T160753Z
+UID:plk-223618@zastal-calendar
+SEQUENCE:0
+CATEGORIES:ORLEN Basket Liga,Koszykówka,Zastal
+DESCRIPTION:ORLEN Basket Liga\nSezon: 2026/2027\nRunda Zasadnicza · 20 ko
+ lejka\nGospodarze: Zastal Zielona Góra\nGoście: GTK Gliwice\nStatus: Zap
+ lanowany\nStatus źródłowy: scheduled\nID źródłowe: 223618\nGodzina d
+ o ustalenia (TBD). Data również może się zmienić.\nHala: brak potwier
+ dzonych danych w źródle.\nOficjalne źródło: https://plk.pl/mecz/22361
+ 8/zastal-zielona-gora-vs-gtk-gliwice
+LAST-MODIFIED:20260903T160753Z
+LOCATION:
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://plk.pl/mecz/223618/zastal-zielona-gora-vs-gtk-gliwice
+X-AWAY-ID:2310
+X-CONTENT-HASH:24abe964dd62cbf1e3668a696d56ef82b6e1e17c254d5ee6e6cd096fd7c
+ 15f7e
+X-GAME-STATUS:scheduled
+X-HOME-ID:769
+X-SEASON:2026/2027
+X-SOURCE:plk
+X-SOURCE-ID:223618
+X-SOURCE-STATUS:scheduled
+X-SOURCE-TIMEZONE:Europe/Warsaw
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Zastal – Górnik Zamek Książ Wałbrzych
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+DTSTAMP:20260903T160753Z
+UID:plk-223623@zastal-calendar
+SEQUENCE:0
+CATEGORIES:ORLEN Basket Liga,Koszykówka,Zastal
+DESCRIPTION:ORLEN Basket Liga\nSezon: 2026/2027\nRunda Zasadnicza · 21 ko
+ lejka\nGospodarze: Zastal Zielona Góra\nGoście: Górnik Zamek Książ Wa
+ łbrzych\nStatus: Zaplanowany\nStatus źródłowy: scheduled\nID źródło
+ we: 223623\nGodzina do ustalenia (TBD). Data również może się zmienić
+ .\nHala: brak potwierdzonych danych w źródle.\nOficjalne źródło: http
+ s://plk.pl/mecz/223623/zastal-zielona-gora-vs-gornik-zamek-ksiaz-walbrzych
+LAST-MODIFIED:20260903T160753Z
+LOCATION:
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://plk.pl/mecz/223623/zastal-zielona-gora-vs-gornik-zamek-ksiaz-w
+ albrzych
+X-AWAY-ID:11296
+X-CONTENT-HASH:5645622200bb15df86a50c3834ee1b615519f4bcf9e4f90fdda60b0f4ef
+ cda6d
+X-GAME-STATUS:scheduled
+X-HOME-ID:769
+X-SEASON:2026/2027
+X-SOURCE:plk
+X-SOURCE-ID:223623
+X-SOURCE-STATUS:scheduled
+X-SOURCE-TIMEZONE:Europe/Warsaw
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 MKS Dąbrowa Górnicza – Zastal
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+DTSTAMP:20260903T160753Z
+UID:plk-223635@zastal-calendar
+SEQUENCE:0
+CATEGORIES:ORLEN Basket Liga,Koszykówka,Zastal
+DESCRIPTION:ORLEN Basket Liga\nSezon: 2026/2027\nRunda Zasadnicza · 22 ko
+ lejka\nGospodarze: MKS Dąbrowa Górnicza\nGoście: Zastal Zielona Góra\n
+ Status: Zaplanowany\nStatus źródłowy: scheduled\nID źródłowe: 223635
+ \nGodzina do ustalenia (TBD). Data również może się zmienić.\nHala: b
+ rak potwierdzonych danych w źródle.\nOficjalne źródło: https://plk.pl
+ /mecz/223635/mks-dabrowa-gornicza-vs-zastal-zielona-gora
+LAST-MODIFIED:20260903T160753Z
+LOCATION:
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://plk.pl/mecz/223635/mks-dabrowa-gornicza-vs-zastal-zielona-gora
+X-AWAY-ID:769
+X-CONTENT-HASH:2abd07db6291a9f65dbf96b87217d0e50d1db6ddad427f41b381c6e620a
+ 853a6
+X-GAME-STATUS:scheduled
+X-HOME-ID:1490
+X-SEASON:2026/2027
+X-SOURCE:plk
+X-SOURCE-ID:223635
+X-SOURCE-STATUS:scheduled
+X-SOURCE-TIMEZONE:Europe/Warsaw
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Zastal – Energa Trefl Sopot
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+DTSTAMP:20260903T160753Z
+UID:plk-223638@zastal-calendar
+SEQUENCE:0
+CATEGORIES:ORLEN Basket Liga,Koszykówka,Zastal
+DESCRIPTION:ORLEN Basket Liga\nSezon: 2026/2027\nRunda Zasadnicza · 23 ko
+ lejka\nGospodarze: Zastal Zielona Góra\nGoście: Energa Trefl Sopot\nStat
+ us: Zaplanowany\nStatus źródłowy: scheduled\nID źródłowe: 223638\nGo
+ dzina do ustalenia (TBD). Data również może się zmienić.\nHala: brak 
+ potwierdzonych danych w źródle.\nOficjalne źródło: https://plk.pl/mec
+ z/223638/zastal-zielona-gora-vs-energa-trefl-sopot
+LAST-MODIFIED:20260903T160753Z
+LOCATION:
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://plk.pl/mecz/223638/zastal-zielona-gora-vs-energa-trefl-sopot
+X-AWAY-ID:112
+X-CONTENT-HASH:26d4888fed57978c96b7316da473e53fab8606982e407e0974242bc4c34
+ 2f263
+X-GAME-STATUS:scheduled
+X-HOME-ID:769
+X-SEASON:2026/2027
+X-SOURCE:plk
+X-SOURCE-ID:223638
+X-SOURCE-STATUS:scheduled
+X-SOURCE-TIMEZONE:Europe/Warsaw
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Zastal – Tasomix Rosiek Stal Ostrów Wielkopolski
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+DTSTAMP:20260903T160753Z
+UID:plk-223652@zastal-calendar
+SEQUENCE:0
+CATEGORIES:ORLEN Basket Liga,Koszykówka,Zastal
+DESCRIPTION:ORLEN Basket Liga\nSezon: 2026/2027\nRunda Zasadnicza · 24 ko
+ lejka\nGospodarze: Zastal Zielona Góra\nGoście: Tasomix Rosiek Stal Ostr
+ ów Wielkopolski\nStatus: Zaplanowany\nStatus źródłowy: scheduled\nID 
+ źródłowe: 223652\nGodzina do ustalenia (TBD). Data również może się
+  zmienić.\nHala: brak potwierdzonych danych w źródle.\nOficjalne źród
+ ło: https://plk.pl/mecz/223652/zastal-zielona-gora-vs-tasomix-rosiek-stal
+ -ostrow-wielkopolski
+LAST-MODIFIED:20260903T160753Z
+LOCATION:
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://plk.pl/mecz/223652/zastal-zielona-gora-vs-tasomix-rosiek-stal-
+ ostrow-wielkopolski
+X-AWAY-ID:11309
+X-CONTENT-HASH:d52b0d87b09ad533925d040df37c2b9d38273a45be14a1738ad7f277d06
+ 8b7e3
+X-GAME-STATUS:scheduled
+X-HOME-ID:769
+X-SEASON:2026/2027
+X-SOURCE:plk
+X-SOURCE-ID:223652
+X-SOURCE-STATUS:scheduled
+X-SOURCE-TIMEZONE:Europe/Warsaw
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Zastal – Enea Łaciate Astoria Bydgoszcz
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+DTSTAMP:20260903T160753Z
+UID:plk-223653@zastal-calendar
+SEQUENCE:0
+CATEGORIES:ORLEN Basket Liga,Koszykówka,Zastal
+DESCRIPTION:ORLEN Basket Liga\nSezon: 2026/2027\nRunda Zasadnicza · 25 ko
+ lejka\nGospodarze: Zastal Zielona Góra\nGoście: Enea Łaciate Astoria By
+ dgoszcz\nStatus: Zaplanowany\nStatus źródłowy: scheduled\nID źródłow
+ e: 223653\nGodzina do ustalenia (TBD). Data również może się zmienić.
+ \nHala: brak potwierdzonych danych w źródle.\nOficjalne źródło: https
+ ://plk.pl/mecz/223653/zastal-zielona-gora-vs-enea-laciate-astoria-bydgoszc
+ z
+LAST-MODIFIED:20260903T160753Z
+LOCATION:
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://plk.pl/mecz/223653/zastal-zielona-gora-vs-enea-laciate-astoria
+ -bydgoszcz
+X-AWAY-ID:4162
+X-CONTENT-HASH:3bac5f83817cc279495ecd2744c964e14a2aeef4b6e9b513f3c84675853
+ ecb79
+X-GAME-STATUS:scheduled
+X-HOME-ID:769
+X-SEASON:2026/2027
+X-SOURCE:plk
+X-SOURCE-ID:223653
+X-SOURCE-STATUS:scheduled
+X-SOURCE-TIMEZONE:Europe/Warsaw
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Legia Warszawa – Zastal
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+DTSTAMP:20260903T160753Z
+UID:plk-223668@zastal-calendar
+SEQUENCE:0
+CATEGORIES:ORLEN Basket Liga,Koszykówka,Zastal
+DESCRIPTION:ORLEN Basket Liga\nSezon: 2026/2027\nRunda Zasadnicza · 26 ko
+ lejka\nGospodarze: Legia Warszawa\nGoście: Zastal Zielona Góra\nStatus: 
+ Zaplanowany\nStatus źródłowy: scheduled\nID źródłowe: 223668\nGodzin
+ a do ustalenia (TBD). Data również może się zmienić.\nHala: brak potw
+ ierdzonych danych w źródle.\nOficjalne źródło: https://plk.pl/mecz/22
+ 3668/legia-warszawa-vs-zastal-zielona-gora
+LAST-MODIFIED:20260903T160753Z
+LOCATION:
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://plk.pl/mecz/223668/legia-warszawa-vs-zastal-zielona-gora
+X-AWAY-ID:769
+X-CONTENT-HASH:5bca11895f23ae44d1d951c2da89336dd025ba97eafb29be0e040a25cce
+ abfc8
+X-GAME-STATUS:scheduled
+X-HOME-ID:11
+X-SEASON:2026/2027
+X-SOURCE:plk
+X-SOURCE-ID:223668
+X-SOURCE-STATUS:scheduled
+X-SOURCE-TIMEZONE:Europe/Warsaw
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Dziki Warszawa – Zastal
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+DTSTAMP:20260903T160753Z
+UID:plk-223670@zastal-calendar
+SEQUENCE:0
+CATEGORIES:ORLEN Basket Liga,Koszykówka,Zastal
+DESCRIPTION:ORLEN Basket Liga\nSezon: 2026/2027\nRunda Zasadnicza · 27 ko
+ lejka\nGospodarze: Dziki Warszawa\nGoście: Zastal Zielona Góra\nStatus: 
+ Zaplanowany\nStatus źródłowy: scheduled\nID źródłowe: 223670\nGodzin
+ a do ustalenia (TBD). Data również może się zmienić.\nHala: brak potw
+ ierdzonych danych w źródle.\nOficjalne źródło: https://plk.pl/mecz/22
+ 3670/dziki-warszawa-vs-zastal-zielona-gora
+LAST-MODIFIED:20260903T160753Z
+LOCATION:
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://plk.pl/mecz/223670/dziki-warszawa-vs-zastal-zielona-gora
+X-AWAY-ID:769
+X-CONTENT-HASH:fa4c8a7f15f0c2882b1f2df917a22d311100022becf274cbafa4ccea726
+ db0f5
+X-GAME-STATUS:scheduled
+X-HOME-ID:11257
+X-SEASON:2026/2027
+X-SOURCE:plk
+X-SOURCE-ID:223670
+X-SOURCE-STATUS:scheduled
+X-SOURCE-TIMEZONE:Europe/Warsaw
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Zastal – PGE Start Lublin
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270424
+DTSTAMP:20260903T160753Z
+UID:plk-223683@zastal-calendar
+SEQUENCE:0
+CATEGORIES:ORLEN Basket Liga,Koszykówka,Zastal
+DESCRIPTION:ORLEN Basket Liga\nSezon: 2026/2027\nRunda Zasadnicza · 28 ko
+ lejka\nGospodarze: Zastal Zielona Góra\nGoście: PGE Start Lublin\nStatus
+ : Zaplanowany\nStatus źródłowy: scheduled\nID źródłowe: 223683\nGodz
+ ina do ustalenia (TBD). Data również może się zmienić.\nHala: brak po
+ twierdzonych danych w źródle.\nOficjalne źródło: https://plk.pl/mecz/
+ 223683/zastal-zielona-gora-vs-pge-start-lublin
+LAST-MODIFIED:20260903T160753Z
+LOCATION:
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://plk.pl/mecz/223683/zastal-zielona-gora-vs-pge-start-lublin
+X-AWAY-ID:22
+X-CONTENT-HASH:79d35f72a129d2999c24f135b2a9c5272f2ba17451e3de6ce940cd84666
+ 575d8
+X-GAME-STATUS:scheduled
+X-HOME-ID:769
+X-SEASON:2026/2027
+X-SOURCE:plk
+X-SOURCE-ID:223683
+X-SOURCE-STATUS:scheduled
+X-SOURCE-TIMEZONE:Europe/Warsaw
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Zastal – Arriva Lotto Twarde Pierniki Toruń
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+DTSTAMP:20260903T160753Z
+UID:plk-223687@zastal-calendar
+SEQUENCE:0
+CATEGORIES:ORLEN Basket Liga,Koszykówka,Zastal
+DESCRIPTION:ORLEN Basket Liga\nSezon: 2026/2027\nRunda Zasadnicza · 29 ko
+ lejka\nGospodarze: Zastal Zielona Góra\nGoście: Arriva Lotto Twarde Pier
+ niki Toruń\nStatus: Zaplanowany\nStatus źródłowy: scheduled\nID źród
+ łowe: 223687\nGodzina do ustalenia (TBD). Data również może się zmien
+ ić.\nHala: brak potwierdzonych danych w źródle.\nOficjalne źródło: h
+ ttps://plk.pl/mecz/223687/zastal-zielona-gora-vs-arriva-lotto-twarde-piern
+ iki-torun
+LAST-MODIFIED:20260903T160753Z
+LOCATION:
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://plk.pl/mecz/223687/zastal-zielona-gora-vs-arriva-lotto-twarde-
+ pierniki-torun
+X-AWAY-ID:101
+X-CONTENT-HASH:a0d59c4dca68ead1804555b01f93d1b111e3950e1f84de3b11a324a9a15
+ 83673
+X-GAME-STATUS:scheduled
+X-HOME-ID:769
+X-SEASON:2026/2027
+X-SOURCE:plk
+X-SOURCE-ID:223687
+X-SOURCE-STATUS:scheduled
+X-SOURCE-TIMEZONE:Europe/Warsaw
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 King Szczecin – Zastal
+DTSTART:20270506T170000Z
+DTEND:20270506T191500Z
+DTSTAMP:20260903T160753Z
+UID:plk-223698@zastal-calendar
+SEQUENCE:0
+CATEGORIES:ORLEN Basket Liga,Koszykówka,Zastal
+DESCRIPTION:ORLEN Basket Liga\nSezon: 2026/2027\nRunda Zasadnicza · 30 ko
+ lejka\nGospodarze: King Szczecin\nGoście: Zastal Zielona Góra\nStatus: Z
+ aplanowany\nStatus źródłowy: scheduled\nID źródłowe: 223698\nCzas mi
+ ejscowy: 2027-05-06 19:00 (Europe/Warsaw)\nPrzewidywany czas trwania: 2 go
+ dz. 15 min.\nHala: brak potwierdzonych danych w źródle.\nOficjalne źró
+ dło: https://plk.pl/mecz/223698/king-szczecin-vs-zastal-zielona-gora
+LAST-MODIFIED:20260903T160753Z
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://plk.pl/mecz/223698/king-szczecin-vs-zastal-zielona-gora
+X-AWAY-ID:769
+X-CONTENT-HASH:adc837ec7b1a3ff08762259f6d3e83f48a80b99c7a6c6304d873785ebcb
+ 1f895
+X-GAME-STATUS:scheduled
+X-HOME-ID:943
+X-SEASON:2026/2027
+X-SOURCE:plk
+X-SOURCE-ID:223698
+X-SOURCE-STATUS:scheduled
+X-SOURCE-TIMEZONE:Europe/Warsaw
+END:VEVENT
+END:VCALENDAR

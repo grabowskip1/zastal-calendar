@@ -1,0 +1,50 @@
+{
+  "id": "223469",
+  "seasonId": "29",
+  "league": {
+    "id": 2,
+    "name": "Polska Liga Koszykówki",
+    "shortName": "PLK"
+  },
+  "round": {
+    "id": 1,
+    "name": "Runda Zasadnicza",
+    "shortName": "Runda Zasadnicza"
+  },
+  "queue": {
+    "id": 60436,
+    "name": "2 kolejka"
+  },
+  "gameNo": "009",
+  "slug": "zastal-zielona-gora-vs-legia-warszawa",
+  "homeTeamName": "Zastal Zielona Góra",
+  "guestTeamName": "Legia Warszawa",
+  "isFinished": false,
+  "date": "2026-10-09T18:15:00.000Z",
+  "dateLocal": "2026-10-09 20:15",
+  "playerIDs": [],
+  "homeTeam": {
+    "id": 769,
+    "name": "Zastal Zielona Góra",
+    "shortName": "Zastal Zielona Góra",
+    "slug": "zastal-zielona-gora"
+  },
+  "guestTeam": {
+    "id": 11,
+    "name": "Legia Warszawa",
+    "shortName": "Legia Warszawa",
+    "slug": "legia-warszawa"
+  },
+  "tvBroadcasts": [
+    {
+      "tvDateTime": "2026-10-09 20:05",
+      "tvStation": "Polsat Sport 2",
+      "logoUrl": "polsat_sport_2.png"
+    }
+  ],
+  "tv": {
+    "tvDateTime": "2026-10-09 20:05",
+    "tvStation": "Polsat Sport 2",
+    "logoUrl": "polsat_sport_2.png"
+  }
+}

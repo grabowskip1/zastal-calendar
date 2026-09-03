@@ -1,0 +1,42 @@
+{
+  "id": "223493",
+  "seasonId": "29",
+  "league": {
+    "id": 2,
+    "name": "Polska Liga Koszykówki",
+    "shortName": "PLK"
+  },
+  "round": {
+    "id": 1,
+    "name": "Runda Zasadnicza",
+    "shortName": "Runda Zasadnicza"
+  },
+  "queue": {
+    "id": 60439,
+    "name": "5 kolejka"
+  },
+  "gameNo": "033",
+  "slug": "arriva-lotto-twarde-pierniki-torun-vs-zastal-zielona-gora",
+  "homeTeamName": "Arriva Lotto Twarde Pierniki Toruń",
+  "guestTeamName": "Zastal Zielona Góra",
+  "isFinished": false,
+  "date": "2026-10-30T23:00:00.000Z",
+  "dateLocal": "2026-10-31 00:00",
+  "playerIDs": [],
+  "homeTeam": {
+    "id": 101,
+    "name": "Arriva Lotto Twarde Pierniki Toruń",
+    "shortName": "Arriva Lotto Twarde Pierniki Toruń",
+    "slug": "arriva-lotto-twarde-pierniki-torun"
+  },
+  "guestTeam": {
+    "id": 769,
+    "name": "Zastal Zielona Góra",
+    "shortName": "Zastal Zielona Góra",
+    "slug": "zastal-zielona-gora"
+  },
+  "tvBroadcasts": [
+    null
+  ],
+  "tv": null
+}

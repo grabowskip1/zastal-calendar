@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+pytest-of-*/
+.ruff_cache/
+.coverage
+htmlcov/
+snapshots/
+reports/latest.json
+reports/live.log
+reports/second-run.json
+downloaded.ics
+*.tmp
+.DS_Store

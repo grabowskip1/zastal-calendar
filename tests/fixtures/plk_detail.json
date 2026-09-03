@@ -1,0 +1,72 @@
+{
+  "id": 223461,
+  "seasonId": 29,
+  "league": {
+    "id": 2,
+    "name": "Polska Liga Koszykówki",
+    "shortName": "PLK"
+  },
+  "round": {
+    "id": 1,
+    "name": "Runda Zasadnicza",
+    "shortName": "Runda Zasadnicza"
+  },
+  "queue": {
+    "id": 60435,
+    "name": "1 kolejka"
+  },
+  "gameNo": "001",
+  "slug": "enea-laciate-astoria-bydgoszcz-vs-zastal-zielona-gora",
+  "homeTeamName": "Enea Łaciate Astoria Bydgoszcz",
+  "guestTeamName": "Zastal Zielona Góra",
+  "isFinished": false,
+  "date": "2026-10-03T15:30:00.000Z",
+  "dateLocal": "2026-10-03 17:30",
+  "playerIDs": [],
+  "homeTeam": {
+    "id": 4162,
+    "name": "Enea Łaciate Astoria Bydgoszcz",
+    "shortName": "Enea Łaciate Astoria Bydgoszcz",
+    "logoUrl": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/300-300/4162.png",
+    "websiteLogoUrl": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/300-300/4162.png",
+    "websiteLightBGLogoUrl": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/300-300/4162.png",
+    "websiteDarkBGLogoUrl": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/300-300/4162.png",
+    "websiteCroppedLogoUrl": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/300-300/4162.png",
+    "coaches": [],
+    "players": [],
+    "gameStatistics": {}
+  },
+  "guestTeam": {
+    "id": 769,
+    "name": "Zastal Zielona Góra",
+    "shortName": "Zastal Zielona Góra",
+    "logoUrl": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/300-300/769.png",
+    "websiteLogoUrl": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/300-300/769.png",
+    "websiteLightBGLogoUrl": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/300-300/769.png",
+    "websiteDarkBGLogoUrl": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/300-300/769.png",
+    "websiteCroppedLogoUrl": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/300-300/769.png",
+    "coaches": [],
+    "players": [],
+    "gameStatistics": {}
+  },
+  "tvBroadcasts": [
+    {
+      "tvDateTime": "2026-10-03 17:20",
+      "tvStation": "Polsat Sport 2",
+      "logoUrl": "polsat_sport_2.png"
+    }
+  ],
+  "tv": {
+    "tvDateTime": "2026-10-03 17:20",
+    "tvStation": "Polsat Sport 2",
+    "logoUrl": "polsat_sport_2.png"
+  },
+  "referees": [],
+  "tableReferees": [],
+  "commissioners": [],
+  "hasPDFReport": false,
+  "venue": {
+    "id": null
+  },
+  "hotel": {}
+}

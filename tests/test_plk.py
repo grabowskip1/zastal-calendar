@@ -26,7 +26,7 @@ def test_away_game(plk_raw):
 def test_home_game(fixtures):
     raw = json.loads((fixtures / 'plk_223469.json').read_text())
     game = plk.parse_game(raw, '2026/2027')
-    assert game.summary == '🏀 Zastal – Legia Warszawa'
+    assert game.summary == 'Zastal – Legia Warszawa'
     assert game.home_is_zastal
 
 

@@ -77,16 +77,3 @@ TBD, stabilność UID, escapowanie znaków oraz zachowanie podczas awarii.
 
 Weryfikacja z **3 września 2026** zakończyła się wynikiem **79 zaliczonych testów**
 i wygenerowaniem **40 wydarzeń: 30 PLK oraz 10 FIBA Europe Cup**.
-Szczegóły zawiera [raport weryfikacji](reports/VERIFICATION.md).
-
-## Dokumentacja
-
-- [Wdrożenie, subskrypcja i konfiguracja](SETUP.md)
-- [Raport weryfikacji projektu](reports/VERIFICATION.md)
-- [Dane i wyniki smoke testu](reports/smoke.json)
-- [Workflow aktualizacji i publikacji](.github/workflows/update-calendar.yml)
-- [Testy i fixtures](tests/)
-
-Terminy zależą od informacji publikowanych przez organizatorów. Częstotliwość
-pobierania zmian przez aplikację kalendarza może różnić się od harmonogramu
-generatora. Projekt nie jest oficjalnym kalendarzem klubu, PLK ani FIBA.

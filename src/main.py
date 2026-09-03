@@ -15,11 +15,12 @@ from .models import Game
 LOG = logging.getLogger(__name__)
 
 
-def generate(output: Path, client: HttpClient | None = None) -> tuple[bool, list[Game]]:
+def generate(output: Path, client: HttpClient | None = None,
+             *, repair_integrity: bool = False) -> tuple[bool, list[Game]]:
     client = client or HttpClient()
     # Any failed source, including any required match detail, aborts before writing.
     games = plk.fetch(client) + fiba.fetch(client)
-    changed = write_calendar(output, games)
+    changed = write_calendar(output, games, repair_integrity=repair_integrity)
     return changed, games
 
 
@@ -28,10 +29,13 @@ def main() -> int:
     parser.add_argument('--output', type=Path, default=Path('docs/zastal.ics'))
     parser.add_argument('--snapshot-dir', type=Path, help='Optional raw HTTP audit directory')
     parser.add_argument('--report', type=Path, help='Optional JSON audit report; not part of ICS')
+    parser.add_argument('--repair-integrity', action='store_true',
+                        help='Rebuild hash-mismatched existing events from official data, preserving UID/SEQUENCE')
     args = parser.parse_args()
     logging.basicConfig(level=logging.INFO, format='%(asctime)s %(levelname)s %(message)s')
     try:
-        changed, games = generate(args.output, HttpClient(args.snapshot_dir))
+        changed, games = generate(args.output, HttpClient(args.snapshot_dir),
+                                 repair_integrity=args.repair_integrity)
         LOG.info('SUCCESS: %d games, changed=%s, timed=%d, TBD=%d', len(games), changed,
                  sum(g.start is not None for g in games), sum(g.start is None for g in games))
         if args.report:

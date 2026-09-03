@@ -76,7 +76,7 @@ def make_event(game: Game) -> Event:
     return event
 
 
-def validate_ics(data: bytes) -> Calendar:
+def validate_ics(data: bytes, *, check_hash: bool = True) -> Calendar:
     if not data or not data.endswith(b'END:VCALENDAR\r\n'):
         raise SourceError('ICS is empty or does not end with VCALENDAR/CRLF')
     if b'\n' in data.replace(b'\r\n', b'') or b'\r' in data.replace(b'\r\n', b''):
@@ -125,7 +125,7 @@ def validate_ics(data: bytes) -> Calendar:
                     raise SourceError(f'{key} must be UTC')
             if int(event['SEQUENCE']) < 0:
                 raise SourceError('Negative SEQUENCE')
-            if str(event['X-CONTENT-HASH']) != event_hash(event):
+            if check_hash and str(event['X-CONTENT-HASH']) != event_hash(event):
                 raise SourceError(f'Event integrity check failed: {uid}')
         if events != sorted(events, key=sort_key):
             raise SourceError('ICS events are not chronologically sorted')
@@ -137,11 +137,14 @@ def validate_ics(data: bytes) -> Calendar:
 
 
 def build_calendar(games: list[Game], previous: bytes | None = None,
-                   now: datetime | None = None) -> bytes:
+                   now: datetime | None = None, *, repair_integrity: bool = False) -> bytes:
     if {g.source for g in games} != {'plk', 'fiba'}:
         raise SourceError('Both PLK and FIBA must succeed; previous calendar is preserved')
-    old_events = validate_ics(previous).walk('VEVENT') if previous is not None else []
+    old_events = (validate_ics(previous, check_hash=not repair_integrity).walk('VEVENT')
+                  if previous is not None else [])
     old = {str(event['UID']): event for event in old_events}
+    damaged = {uid for uid, event in old.items()
+               if str(event['X-CONTENT-HASH']) != event_hash(event)}
     current: dict[str, Game] = {}
     signatures = set()
     for game in games:
@@ -166,13 +169,20 @@ def build_calendar(games: list[Game], previous: bytes | None = None,
                if (str(event['X-SOURCE']), str(event['X-SEASON'])) in seasons and uid not in current]
     if missing:
         raise SourceError(f'Previously known games disappeared; refusing destructive update: {missing}')
+    # Repair only from freshly fetched official records, never bless edited history.
+    unavailable = damaged - current.keys()
+    if unavailable:
+        raise SourceError(f'Cannot repair events absent from current sources: {sorted(unavailable)}')
+    if damaged:
+        LOG.warning('Rebuilding %d events with invalid hashes from official data; preserving UIDs',
+                    len(damaged))
     now = (now or datetime.now(UTC)).astimezone(UTC).replace(microsecond=0)
     calendar = Calendar()
     calendar.add('prodid', '-//Zastal Calendar//PLK and FIBA//PL')
     calendar.add('version', '2.0')
     calendar.add('calscale', 'GREGORIAN')
-    calendar.add('name', 'Zastal Zielona Góra')
-    calendar.add('x-wr-calname', 'Zastal Zielona Góra')
+    calendar.add('name', '🏀 Zastal Zielona Góra')
+    calendar.add('x-wr-calname', '🏀 Zastal Zielona Góra')
     calendar.add('x-wr-timezone', 'Europe/Warsaw')
     calendar.add('x-wr-caldesc', 'Mecze Zastalu: ORLEN Basket Liga i FIBA Europe Cup')
     calendar.add('refresh-interval', timedelta(hours=6), parameters={'VALUE': 'DURATION'})
@@ -183,7 +193,7 @@ def build_calendar(games: list[Game], previous: bytes | None = None,
         event = make_event(game)
         digest = event_hash(event)
         prior = old.get(game.uid)
-        if prior is not None and str(prior['X-CONTENT-HASH']) == digest:
+        if prior is not None and game.uid not in damaged and str(prior['X-CONTENT-HASH']) == digest:
             event = deepcopy(prior)
         else:
             modified = now
@@ -201,9 +211,10 @@ def build_calendar(games: list[Game], previous: bytes | None = None,
     return data
 
 
-def write_calendar(path: Path, games: list[Game], now: datetime | None = None) -> bool:
+def write_calendar(path: Path, games: list[Game], now: datetime | None = None,
+                   *, repair_integrity: bool = False) -> bool:
     previous = path.read_bytes() if path.exists() else None
-    data = build_calendar(games, previous, now)
+    data = build_calendar(games, previous, now, repair_integrity=repair_integrity)
     if data == previous:
         LOG.info('Calendar unchanged: %s', path)
         return False

@@ -120,7 +120,7 @@ class Game:
     def summary(self) -> str:
         home = 'Zastal' if self.home_is_zastal else self.home
         away = 'Zastal' if self.away_is_zastal else self.away
-        return f'🏀 {home} – {away}'
+        return f'{home} – {away}'
 
     def validate(self) -> None:
         if self.home_is_zastal == self.away_is_zastal:

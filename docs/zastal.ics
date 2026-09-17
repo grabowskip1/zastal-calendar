@@ -102,26 +102,27 @@ X-SOURCE-STATUS:scheduled
 X-SOURCE-TIMEZONE:Europe/Warsaw
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Zastal – Rywal do ustalenia
+SUMMARY:Zastal – Patrioti Levice
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
-DTSTAMP:20260903T225520Z
+DTSTAMP:20260917T114018Z
 UID:fiba-135699@zastal-calendar
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:FIBA Europe Cup,Koszykówka,Zastal
 DESCRIPTION:FIBA Europe Cup\nSezon: 2026/2027\nRegular Season · B\nGospod
- arze: Zastal Zielona Gora\nGoście: Rywal do ustalenia\nStatus: Zaplanowan
- y\nStatus źródłowy: INIT\nID źródłowe: 135699\nGodzina do ustalenia 
- (TBD). Data również może się zmienić.\nOficjalne źródło: https://w
- ww.fiba.basketball/en/events/fiba-europe-cup-26-27/games
-LAST-MODIFIED:20260903T225520Z
+ arze: Zastal Zielona Gora\nGoście: Patrioti Levice\nStatus: Zaplanowany\n
+ Status źródłowy: INIT\nID źródłowe: 135699\nGodzina do ustalenia (TB
+ D). Data również może się zmienić.\nOficjalne źródło: https://www.
+ fiba.basketball/en/events/fiba-europe-cup-26-27/games/135699-ZIE-LEV
+LAST-MODIFIED:20260917T114018Z
 LOCATION:Centrum Rekreacyjno-Sportowe Zielona Gora\, Zielona Gora\, Poland
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
-URL:https://www.fiba.basketball/en/events/fiba-europe-cup-26-27/games
-X-AWAY-ID:TBD
-X-CONTENT-HASH:084085596c10c991aa29e2dc4109f7fc95202a4d7dcb0e4082df11d1078
- 8023f
+URL:https://www.fiba.basketball/en/events/fiba-europe-cup-26-27/games/1356
+ 99-ZIE-LEV
+X-AWAY-ID:285344
+X-CONTENT-HASH:f3985e5cdf532e9ed2ca989c1f9a714f2fdb30e4765bc2479b7a8d160a7
+ 87488
 X-GAME-STATUS:scheduled
 X-HOME-ID:285088
 X-SEASON:2026/2027
@@ -406,34 +407,34 @@ X-SOURCE-STATUS:scheduled
 X-SOURCE-TIMEZONE:Europe/Warsaw
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rywal do ustalenia – Zastal
+SUMMARY:Patrioti Levice – Zastal
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
-DTSTAMP:20260903T225520Z
+DTSTAMP:20260917T114018Z
 UID:fiba-135714@zastal-calendar
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:FIBA Europe Cup,Koszykówka,Zastal
 DESCRIPTION:FIBA Europe Cup\nSezon: 2026/2027\nRegular Season · B\nGospod
- arze: Rywal do ustalenia\nGoście: Zastal Zielona Gora\nStatus: Zaplanowan
- y\nStatus źródłowy: INIT\nID źródłowe: 135714\nGodzina do ustalenia 
- (TBD). Data również może się zmienić.\nHala: brak potwierdzonych dany
- ch w źródle.\nOficjalne źródło: https://www.fiba.basketball/en/events
- /fiba-europe-cup-26-27/games
-LAST-MODIFIED:20260903T225520Z
-LOCATION:
+ arze: Patrioti Levice\nGoście: Zastal Zielona Gora\nStatus: Zaplanowany\n
+ Status źródłowy: INIT\nID źródłowe: 135714\nGodzina do ustalenia (TB
+ D). Data również może się zmienić.\nOficjalne źródło: https://www.
+ fiba.basketball/en/events/fiba-europe-cup-26-27/games/135714-LEV-ZIE
+LAST-MODIFIED:20260917T114018Z
+LOCATION:Haleon Arena\, Levice\, Slovakia
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
-URL:https://www.fiba.basketball/en/events/fiba-europe-cup-26-27/games
+URL:https://www.fiba.basketball/en/events/fiba-europe-cup-26-27/games/1357
+ 14-LEV-ZIE
 X-AWAY-ID:285088
-X-CONTENT-HASH:188c03c50de00cb8e1f8a85e2afc90b0bc2a8cc8dd04ab9f07e51bd9dde
- 9a936
+X-CONTENT-HASH:d745014b70049b323002756b22507d1dbbecc553d406b832bcedbce0b92
+ 2d2e1
 X-GAME-STATUS:scheduled
-X-HOME-ID:TBD
+X-HOME-ID:285344
 X-SEASON:2026/2027
 X-SOURCE:fiba
 X-SOURCE-ID:135714
 X-SOURCE-STATUS:INIT
-X-SOURCE-TIMEZONE:TBD
+X-SOURCE-TIMEZONE:Europe/Bratislava
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Zastal – Dziki Warszawa

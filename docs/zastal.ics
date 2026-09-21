@@ -132,27 +132,28 @@ X-SOURCE-STATUS:INIT
 X-SOURCE-TIMEZONE:Europe/Warsaw
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:GTK Gliwice – Zastal
+SUMMARY:Euvic GTK Gliwice – Zastal
 DTSTART:20261017T130000Z
 DTEND:20261017T151500Z
-DTSTAMP:20260903T225520Z
+DTSTAMP:20260921T215815Z
 UID:plk-223477@zastal-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:ORLEN Basket Liga,Koszykówka,Zastal
 DESCRIPTION:ORLEN Basket Liga\nSezon: 2026/2027\nRunda Zasadnicza · 3 kol
- ejka\nGospodarze: GTK Gliwice\nGoście: Zastal Zielona Góra\nStatus: Zapl
- anowany\nStatus źródłowy: scheduled\nID źródłowe: 223477\nCzas miejs
- cowy: 2026-10-17 15:00 (Europe/Warsaw)\nPrzewidywany czas trwania: 2 godz.
-  15 min.\nHala: brak potwierdzonych danych w źródle.\nOficjalne źródł
- o: https://plk.pl/mecz/223477/gtk-gliwice-vs-zastal-zielona-gora
-LAST-MODIFIED:20260903T225520Z
+ ejka\nGospodarze: Euvic GTK Gliwice\nGoście: Zastal Zielona Góra\nStatus
+ : Zaplanowany\nStatus źródłowy: scheduled\nID źródłowe: 223477\nCzas
+  miejscowy: 2026-10-17 15:00 (Europe/Warsaw)\nPrzewidywany czas trwania: 2
+  godz. 15 min.\nHala: brak potwierdzonych danych w źródle.\nOficjalne ź
+ ródło: https://plk.pl/mecz/223477/euvic-gtk-gliwice-vs-zastal-zielona-go
+ ra
+LAST-MODIFIED:20260921T215815Z
 LOCATION:
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-URL:https://plk.pl/mecz/223477/gtk-gliwice-vs-zastal-zielona-gora
+URL:https://plk.pl/mecz/223477/euvic-gtk-gliwice-vs-zastal-zielona-gora
 X-AWAY-ID:769
-X-CONTENT-HASH:07757642a6d94b6dfe62336b535bd1bc991fd194faca7ae31ac34e19c16
- c3d97
+X-CONTENT-HASH:d574297089504558429e4717d8b3e0a08716b8f7b5b39926c00234781e0
+ cae87
 X-GAME-STATUS:scheduled
 X-HOME-ID:2310
 X-SEASON:2026/2027
@@ -408,26 +409,27 @@ X-SOURCE-TIMEZONE:Europe/Warsaw
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Patrioti Levice – Zastal
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-DTSTAMP:20260917T114018Z
+DTSTART:20261119T180000Z
+DTEND:20261119T201500Z
+DTSTAMP:20260921T215815Z
 UID:fiba-135714@zastal-calendar
-SEQUENCE:3
+SEQUENCE:4
 CATEGORIES:FIBA Europe Cup,Koszykówka,Zastal
 DESCRIPTION:FIBA Europe Cup\nSezon: 2026/2027\nRegular Season · B\nGospod
  arze: Patrioti Levice\nGoście: Zastal Zielona Gora\nStatus: Zaplanowany\n
- Status źródłowy: INIT\nID źródłowe: 135714\nGodzina do ustalenia (TB
- D). Data również może się zmienić.\nOficjalne źródło: https://www.
- fiba.basketball/en/events/fiba-europe-cup-26-27/games/135714-LEV-ZIE
-LAST-MODIFIED:20260917T114018Z
+ Status źródłowy: INIT\nID źródłowe: 135714\nCzas miejscowy: 2026-11-
+ 19 19:00 (Europe/Bratislava)\nPrzewidywany czas trwania: 2 godz. 15 min.\n
+ Oficjalne źródło: https://www.fiba.basketball/en/events/fiba-europe-cup
+ -26-27/games/135714-LEV-ZIE
+LAST-MODIFIED:20260921T215815Z
 LOCATION:Haleon Arena\, Levice\, Slovakia
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.fiba.basketball/en/events/fiba-europe-cup-26-27/games/1357
  14-LEV-ZIE
 X-AWAY-ID:285088
-X-CONTENT-HASH:d745014b70049b323002756b22507d1dbbecc553d406b832bcedbce0b92
- 2d2e1
+X-CONTENT-HASH:aedd4a9c0abb5dc22c338cf69038985b2cbb96e0ae559c57a9fa4acc67c
+ 802d1
 X-GAME-STATUS:scheduled
 X-HOME-ID:285344
 X-SEASON:2026/2027
@@ -889,27 +891,27 @@ X-SOURCE-STATUS:scheduled
 X-SOURCE-TIMEZONE:Europe/Warsaw
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Zastal – GTK Gliwice
+SUMMARY:Zastal – Euvic GTK Gliwice
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
-DTSTAMP:20260903T225520Z
+DTSTAMP:20260921T215815Z
 UID:plk-223618@zastal-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:ORLEN Basket Liga,Koszykówka,Zastal
 DESCRIPTION:ORLEN Basket Liga\nSezon: 2026/2027\nRunda Zasadnicza · 20 ko
- lejka\nGospodarze: Zastal Zielona Góra\nGoście: GTK Gliwice\nStatus: Zap
- lanowany\nStatus źródłowy: scheduled\nID źródłowe: 223618\nGodzina d
- o ustalenia (TBD). Data również może się zmienić.\nHala: brak potwier
- dzonych danych w źródle.\nOficjalne źródło: https://plk.pl/mecz/22361
- 8/zastal-zielona-gora-vs-gtk-gliwice
-LAST-MODIFIED:20260903T225520Z
+ lejka\nGospodarze: Zastal Zielona Góra\nGoście: Euvic GTK Gliwice\nStatu
+ s: Zaplanowany\nStatus źródłowy: scheduled\nID źródłowe: 223618\nGod
+ zina do ustalenia (TBD). Data również może się zmienić.\nHala: brak p
+ otwierdzonych danych w źródle.\nOficjalne źródło: https://plk.pl/mecz
+ /223618/zastal-zielona-gora-vs-euvic-gtk-gliwice
+LAST-MODIFIED:20260921T215815Z
 LOCATION:
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
-URL:https://plk.pl/mecz/223618/zastal-zielona-gora-vs-gtk-gliwice
+URL:https://plk.pl/mecz/223618/zastal-zielona-gora-vs-euvic-gtk-gliwice
 X-AWAY-ID:2310
-X-CONTENT-HASH:5a161232dae932508b6fefec49b935aa34b2018c961a5d57cdd64b4005f
- c2878
+X-CONTENT-HASH:c7d6c471668e0eb2085bb2522dce5e708d58a3b52ac4306e5538a7a3d38
+ 41c37
 X-GAME-STATUS:scheduled
 X-HOME-ID:769
 X-SEASON:2026/2027

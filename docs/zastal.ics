@@ -744,24 +744,24 @@ BEGIN:VEVENT
 SUMMARY:Energa Czarni Słupsk – Zastal
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
-DTSTAMP:20260903T225520Z
+DTSTAMP:20260923T212940Z
 UID:plk-223573@zastal-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:ORLEN Basket Liga,Koszykówka,Zastal
 DESCRIPTION:ORLEN Basket Liga\nSezon: 2026/2027\nRunda Zasadnicza · 15 ko
  lejka\nGospodarze: Energa Czarni Słupsk\nGoście: Zastal Zielona Góra\nS
  tatus: Zaplanowany\nStatus źródłowy: scheduled\nID źródłowe: 223573
- \nGodzina do ustalenia (TBD). Data również może się zmienić.\nHala: b
- rak potwierdzonych danych w źródle.\nOficjalne źródło: https://plk.pl
- /mecz/223573/energa-czarni-slupsk-vs-zastal-zielona-gora
-LAST-MODIFIED:20260903T225520Z
-LOCATION:
+ \nGodzina do ustalenia (TBD). Data również może się zmienić.\nOficjal
+ ne źródło: https://plk.pl/mecz/223573/energa-czarni-slupsk-vs-zastal-zi
+ elona-gora
+LAST-MODIFIED:20260923T212940Z
+LOCATION:Hala Gryfia\, Słupsk\, Szczecińska 99
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 URL:https://plk.pl/mecz/223573/energa-czarni-slupsk-vs-zastal-zielona-gora
 X-AWAY-ID:769
-X-CONTENT-HASH:1e658842df1634ccc550547fc13a4c4585e157f9ae9e6c2e1fc7941c9a6
- f1dc7
+X-CONTENT-HASH:d172ddd4e7d18c13fcbb39c2398076bfc5dce55ef611245030d5fa13ddd
+ d100d
 X-GAME-STATUS:scheduled
 X-HOME-ID:8607
 X-SEASON:2026/2027
@@ -1109,24 +1109,23 @@ BEGIN:VEVENT
 SUMMARY:Dziki Warszawa – Zastal
 DTSTART;VALUE=DATE:20270418
 DTEND;VALUE=DATE:20270419
-DTSTAMP:20260903T225520Z
+DTSTAMP:20260923T212940Z
 UID:plk-223670@zastal-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:ORLEN Basket Liga,Koszykówka,Zastal
 DESCRIPTION:ORLEN Basket Liga\nSezon: 2026/2027\nRunda Zasadnicza · 27 ko
  lejka\nGospodarze: Dziki Warszawa\nGoście: Zastal Zielona Góra\nStatus: 
  Zaplanowany\nStatus źródłowy: scheduled\nID źródłowe: 223670\nGodzin
- a do ustalenia (TBD). Data również może się zmienić.\nHala: brak potw
- ierdzonych danych w źródle.\nOficjalne źródło: https://plk.pl/mecz/22
- 3670/dziki-warszawa-vs-zastal-zielona-gora
-LAST-MODIFIED:20260903T225520Z
-LOCATION:
+ a do ustalenia (TBD). Data również może się zmienić.\nOficjalne źró
+ dło: https://plk.pl/mecz/223670/dziki-warszawa-vs-zastal-zielona-gora
+LAST-MODIFIED:20260923T212940Z
+LOCATION:Hala Koło\, Warszawa\, ul. Obozowa 60
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 URL:https://plk.pl/mecz/223670/dziki-warszawa-vs-zastal-zielona-gora
 X-AWAY-ID:769
-X-CONTENT-HASH:fa11f2fb4dff7c38460ada97353c3c1311460dcae8a6de54e9adca7e532
- 65c18
+X-CONTENT-HASH:186ebb93beaa226349e3800849d70748376e45c53a20801b97ea07d6a31
+ e25a3
 X-GAME-STATUS:scheduled
 X-HOME-ID:11257
 X-SEASON:2026/2027

@@ -472,24 +472,24 @@ BEGIN:VEVENT
 SUMMARY:Energa Trefl Sopot – Zastal
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20260903T225520Z
+DTSTAMP:20260925T171003Z
 UID:plk-223525@zastal-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:ORLEN Basket Liga,Koszykówka,Zastal
 DESCRIPTION:ORLEN Basket Liga\nSezon: 2026/2027\nRunda Zasadnicza · 9 kol
  ejka\nGospodarze: Energa Trefl Sopot\nGoście: Zastal Zielona Góra\nStatu
  s: Zaplanowany\nStatus źródłowy: scheduled\nID źródłowe: 223525\nGod
- zina do ustalenia (TBD). Data również może się zmienić.\nHala: brak p
- otwierdzonych danych w źródle.\nOficjalne źródło: https://plk.pl/mecz
- /223525/energa-trefl-sopot-vs-zastal-zielona-gora
-LAST-MODIFIED:20260903T225520Z
-LOCATION:
+ zina do ustalenia (TBD). Data również może się zmienić.\nOficjalne ź
+ ródło: https://plk.pl/mecz/223525/energa-trefl-sopot-vs-zastal-zielona-g
+ ora
+LAST-MODIFIED:20260925T171003Z
+LOCATION:Ergo Arena\, Sopot\, ul. Plac Dwóch Miast 1
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 URL:https://plk.pl/mecz/223525/energa-trefl-sopot-vs-zastal-zielona-gora
 X-AWAY-ID:769
-X-CONTENT-HASH:2b0dd4d605bf3b56f0150d6ba0fc31208b3f6e894c748cf22297a11f4a4
- 2fcda
+X-CONTENT-HASH:432c0ab8b07453734c5a361953a59e2ffc0e5c8219221c31c9e231d3583
+ 7b5a7
 X-GAME-STATUS:scheduled
 X-HOME-ID:112
 X-SEASON:2026/2027

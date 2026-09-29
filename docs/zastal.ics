@@ -103,26 +103,27 @@ X-SOURCE-TIMEZONE:Europe/Warsaw
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Zastal – Patrioti Levice
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-DTSTAMP:20260917T114018Z
+DTSTART:20261014T163000Z
+DTEND:20261014T184500Z
+DTSTAMP:20260929T125118Z
 UID:fiba-135699@zastal-calendar
-SEQUENCE:3
+SEQUENCE:4
 CATEGORIES:FIBA Europe Cup,Koszykówka,Zastal
 DESCRIPTION:FIBA Europe Cup\nSezon: 2026/2027\nRegular Season · B\nGospod
  arze: Zastal Zielona Gora\nGoście: Patrioti Levice\nStatus: Zaplanowany\n
- Status źródłowy: INIT\nID źródłowe: 135699\nGodzina do ustalenia (TB
- D). Data również może się zmienić.\nOficjalne źródło: https://www.
- fiba.basketball/en/events/fiba-europe-cup-26-27/games/135699-ZIE-LEV
-LAST-MODIFIED:20260917T114018Z
+ Status źródłowy: INIT\nID źródłowe: 135699\nCzas miejscowy: 2026-10-
+ 14 18:30 (Europe/Warsaw)\nPrzewidywany czas trwania: 2 godz. 15 min.\nOfic
+ jalne źródło: https://www.fiba.basketball/en/events/fiba-europe-cup-26-
+ 27/games/135699-ZIE-LEV
+LAST-MODIFIED:20260929T125118Z
 LOCATION:Centrum Rekreacyjno-Sportowe Zielona Gora\, Zielona Gora\, Poland
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.fiba.basketball/en/events/fiba-europe-cup-26-27/games/1356
  99-ZIE-LEV
 X-AWAY-ID:285344
-X-CONTENT-HASH:f3985e5cdf532e9ed2ca989c1f9a714f2fdb30e4765bc2479b7a8d160a7
- 87488
+X-CONTENT-HASH:3b9a3b30c17f97a094037c8e2159b8add2fe881ed60f46bad158885843c
+ b5702
 X-GAME-STATUS:scheduled
 X-HOME-ID:285088
 X-SEASON:2026/2027
@@ -225,26 +226,27 @@ X-SOURCE-TIMEZONE:Europe/Warsaw
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Zastal – Coretec Oostende
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261029
-DTSTAMP:20260903T225520Z
+DTSTART:20261028T173000Z
+DTEND:20261028T194500Z
+DTSTAMP:20260929T125118Z
 UID:fiba-135704@zastal-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIBA Europe Cup,Koszykówka,Zastal
 DESCRIPTION:FIBA Europe Cup\nSezon: 2026/2027\nRegular Season · B\nGospod
  arze: Zastal Zielona Gora\nGoście: Coretec Oostende\nStatus: Zaplanowany
- \nStatus źródłowy: INIT\nID źródłowe: 135704\nGodzina do ustalenia (
- TBD). Data również może się zmienić.\nOficjalne źródło: https://ww
- w.fiba.basketball/en/events/fiba-europe-cup-26-27/games/135704-ZIE-BCO
-LAST-MODIFIED:20260903T225520Z
+ \nStatus źródłowy: INIT\nID źródłowe: 135704\nCzas miejscowy: 2026-1
+ 0-28 18:30 (Europe/Warsaw)\nPrzewidywany czas trwania: 2 godz. 15 min.\nOf
+ icjalne źródło: https://www.fiba.basketball/en/events/fiba-europe-cup-2
+ 6-27/games/135704-ZIE-BCO
+LAST-MODIFIED:20260929T125118Z
 LOCATION:Centrum Rekreacyjno-Sportowe Zielona Gora\, Zielona Gora\, Poland
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.fiba.basketball/en/events/fiba-europe-cup-26-27/games/1357
  04-ZIE-BCO
 X-AWAY-ID:285308
-X-CONTENT-HASH:e7eea54b148afe8d5a725425d4210dc635911eba71065442109f30cce2d
- 6901d
+X-CONTENT-HASH:f28b95faad5458b44f82adaf1bea62676241927d902a388576524494884
+ df390
 X-GAME-STATUS:scheduled
 X-HOME-ID:285088
 X-SEASON:2026/2027
@@ -287,25 +289,26 @@ X-SOURCE-TIMEZONE:Europe/Warsaw
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Zastal – Rywal do ustalenia
-DTSTART;VALUE=DATE:20261104
-DTEND;VALUE=DATE:20261105
-DTSTAMP:20260903T225520Z
+DTSTART:20261104T173000Z
+DTEND:20261104T194500Z
+DTSTAMP:20260929T125118Z
 UID:fiba-135706@zastal-calendar
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:FIBA Europe Cup,Koszykówka,Zastal
 DESCRIPTION:FIBA Europe Cup\nSezon: 2026/2027\nRegular Season · B\nGospod
  arze: Zastal Zielona Gora\nGoście: Rywal do ustalenia\nStatus: Zaplanowan
- y\nStatus źródłowy: INIT\nID źródłowe: 135706\nGodzina do ustalenia 
- (TBD). Data również może się zmienić.\nOficjalne źródło: https://w
- ww.fiba.basketball/en/events/fiba-europe-cup-26-27/games
-LAST-MODIFIED:20260903T225520Z
+ y\nStatus źródłowy: INIT\nID źródłowe: 135706\nCzas miejscowy: 2026-
+ 11-04 18:30 (Europe/Warsaw)\nPrzewidywany czas trwania: 2 godz. 15 min.\nO
+ ficjalne źródło: https://www.fiba.basketball/en/events/fiba-europe-cup-
+ 26-27/games
+LAST-MODIFIED:20260929T125118Z
 LOCATION:Centrum Rekreacyjno-Sportowe Zielona Gora\, Zielona Gora\, Poland
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.fiba.basketball/en/events/fiba-europe-cup-26-27/games
 X-AWAY-ID:TBD
-X-CONTENT-HASH:3077be7bb66f7d742f9b285019f13962fda3bbb72f4a7a539aa3b15a2b1
- 6c137
+X-CONTENT-HASH:c147edf518b93ff8b3f5884c27f141ba95e595e112cc10a25072c7b1ba8
+ d4a6d
 X-GAME-STATUS:scheduled
 X-HOME-ID:285088
 X-SEASON:2026/2027
@@ -348,27 +351,27 @@ X-SOURCE-TIMEZONE:Europe/Warsaw
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Zastal – NHSZ-Szolnoki Olajbanyasz
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261112
-DTSTAMP:20260903T225520Z
+DTSTART:20261111T173000Z
+DTEND:20261111T194500Z
+DTSTAMP:20260929T125118Z
 UID:fiba-135710@zastal-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIBA Europe Cup,Koszykówka,Zastal
 DESCRIPTION:FIBA Europe Cup\nSezon: 2026/2027\nRegular Season · B\nGospod
  arze: Zastal Zielona Gora\nGoście: NHSZ-Szolnoki Olajbanyasz\nStatus: Zap
- lanowany\nStatus źródłowy: INIT\nID źródłowe: 135710\nGodzina do ust
- alenia (TBD). Data również może się zmienić.\nOficjalne źródło: ht
- tps://www.fiba.basketball/en/events/fiba-europe-cup-26-27/games/135710-ZIE
- -OLAJ
-LAST-MODIFIED:20260903T225520Z
+ lanowany\nStatus źródłowy: INIT\nID źródłowe: 135710\nCzas miejscowy
+ : 2026-11-11 18:30 (Europe/Warsaw)\nPrzewidywany czas trwania: 2 godz. 15 
+ min.\nOficjalne źródło: https://www.fiba.basketball/en/events/fiba-euro
+ pe-cup-26-27/games/135710-ZIE-OLAJ
+LAST-MODIFIED:20260929T125118Z
 LOCATION:Centrum Rekreacyjno-Sportowe Zielona Gora\, Zielona Gora\, Poland
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.fiba.basketball/en/events/fiba-europe-cup-26-27/games/1357
  10-ZIE-OLAJ
 X-AWAY-ID:285082
-X-CONTENT-HASH:88ae21e8e9a3e927ac60a312c2b4a0c550c27bfd408b2f211f1f624cc22
- 5f3a1
+X-CONTENT-HASH:21a6907814342a2a0f56f020ebaa35f67f282a8065d86a735476d68a42e
+ 19eaa
 X-GAME-STATUS:scheduled
 X-HOME-ID:285088
 X-SEASON:2026/2027
@@ -500,26 +503,27 @@ X-SOURCE-TIMEZONE:Europe/Warsaw
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Zastal – FIATC Girona
-DTSTART;VALUE=DATE:20261209
-DTEND;VALUE=DATE:20261210
-DTSTAMP:20260903T225520Z
+DTSTART:20261209T173000Z
+DTEND:20261209T194500Z
+DTSTAMP:20260929T125118Z
 UID:fiba-135717@zastal-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIBA Europe Cup,Koszykówka,Zastal
 DESCRIPTION:FIBA Europe Cup\nSezon: 2026/2027\nRegular Season · B\nGospod
  arze: Zastal Zielona Gora\nGoście: FIATC Girona\nStatus: Zaplanowany\nSta
- tus źródłowy: INIT\nID źródłowe: 135717\nGodzina do ustalenia (TBD).
-  Data również może się zmienić.\nOficjalne źródło: https://www.fib
- a.basketball/en/events/fiba-europe-cup-26-27/games/135717-ZIE-GIR
-LAST-MODIFIED:20260903T225520Z
+ tus źródłowy: INIT\nID źródłowe: 135717\nCzas miejscowy: 2026-12-09 
+ 18:30 (Europe/Warsaw)\nPrzewidywany czas trwania: 2 godz. 15 min.\nOficjal
+ ne źródło: https://www.fiba.basketball/en/events/fiba-europe-cup-26-27/
+ games/135717-ZIE-GIR
+LAST-MODIFIED:20260929T125118Z
 LOCATION:Centrum Rekreacyjno-Sportowe Zielona Gora\, Zielona Gora\, Poland
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.fiba.basketball/en/events/fiba-europe-cup-26-27/games/1357
  17-ZIE-GIR
 X-AWAY-ID:285107
-X-CONTENT-HASH:fc38e596fcb9d7c17ee2b1eb3093c8cfa01dd72a7fc43eaa3af301b1390
- 7e8d5
+X-CONTENT-HASH:37c08d21a1c57e7a0673e807fa76fcfc097c0f4a8d7f0404fa2dafc58d6
+ ecd4a
 X-GAME-STATUS:scheduled
 X-HOME-ID:285088
 X-SEASON:2026/2027

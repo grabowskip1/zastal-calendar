@@ -12,26 +12,25 @@ BEGIN:VEVENT
 SUMMARY:Enea Łaciate Astoria Bydgoszcz – Zastal
 DTSTART:20261003T153000Z
 DTEND:20261003T174500Z
-DTSTAMP:20260903T225520Z
+DTSTAMP:20260930T123320Z
 UID:plk-223461@zastal-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:ORLEN Basket Liga,Koszykówka,Zastal
 DESCRIPTION:ORLEN Basket Liga\nSezon: 2026/2027\nRunda Zasadnicza · 1 kol
  ejka\nGospodarze: Enea Łaciate Astoria Bydgoszcz\nGoście: Zastal Zielona
   Góra\nStatus: Zaplanowany\nStatus źródłowy: scheduled\nID źródłowe
  : 223461\nCzas miejscowy: 2026-10-03 17:30 (Europe/Warsaw)\nPrzewidywany c
- zas trwania: 2 godz. 15 min.\nHala: brak potwierdzonych danych w źródle.
- \nOficjalne źródło: https://plk.pl/mecz/223461/enea-laciate-astoria-byd
- goszcz-vs-zastal-zielona-gora
-LAST-MODIFIED:20260903T225520Z
-LOCATION:
+ zas trwania: 2 godz. 15 min.\nOficjalne źródło: https://plk.pl/mecz/223
+ 461/enea-laciate-astoria-bydgoszcz-vs-zastal-zielona-gora
+LAST-MODIFIED:20260930T123320Z
+LOCATION:Grupa Moderator Arena\, Bydgoszcz\, Toruńska 59
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://plk.pl/mecz/223461/enea-laciate-astoria-bydgoszcz-vs-zastal-zi
  elona-gora
 X-AWAY-ID:769
-X-CONTENT-HASH:45afeeefeda67659bae416e126e1d8d92fbc6e468f05227494b8af01269
- 03c41
+X-CONTENT-HASH:edb8bf8b6fce8711aba4bc84229539293c17f68ce064a439183654b375e
+ a7e45
 X-GAME-STATUS:scheduled
 X-HOME-ID:4162
 X-SEASON:2026/2027

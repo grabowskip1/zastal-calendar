@@ -863,24 +863,23 @@ BEGIN:VEVENT
 SUMMARY:AMW Arka Gdynia – Zastal
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
-DTSTAMP:20260903T225520Z
+DTSTAMP:20260930T053130Z
 UID:plk-223608@zastal-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:ORLEN Basket Liga,Koszykówka,Zastal
 DESCRIPTION:ORLEN Basket Liga\nSezon: 2026/2027\nRunda Zasadnicza · 19 ko
  lejka\nGospodarze: AMW Arka Gdynia\nGoście: Zastal Zielona Góra\nStatus:
   Zaplanowany\nStatus źródłowy: scheduled\nID źródłowe: 223608\nGodzi
- na do ustalenia (TBD). Data również może się zmienić.\nHala: brak pot
- wierdzonych danych w źródle.\nOficjalne źródło: https://plk.pl/mecz/2
- 23608/amw-arka-gdynia-vs-zastal-zielona-gora
-LAST-MODIFIED:20260903T225520Z
-LOCATION:
+ na do ustalenia (TBD). Data również może się zmienić.\nOficjalne źr
+ ódło: https://plk.pl/mecz/223608/amw-arka-gdynia-vs-zastal-zielona-gora
+LAST-MODIFIED:20260930T053130Z
+LOCATION:Polsat Plus Arena Gdynia\, Gdynia\, ul. Kazimierza Górskiego 8
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 URL:https://plk.pl/mecz/223608/amw-arka-gdynia-vs-zastal-zielona-gora
 X-AWAY-ID:769
-X-CONTENT-HASH:aeda09d37990b668d7de16020bc0cd26b09363baa696580f17163f103c3
- 3f156
+X-CONTENT-HASH:b4533626f60ed0184d7867292dae74e32eaf80b4ac8782240175d9f92e9
+ c1050
 X-GAME-STATUS:scheduled
 X-HOME-ID:121
 X-SEASON:2026/2027

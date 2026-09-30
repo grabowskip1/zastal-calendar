@@ -285,27 +285,28 @@ X-SOURCE-STATUS:scheduled
 X-SOURCE-TIMEZONE:Europe/Warsaw
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Zastal – Rywal do ustalenia
+SUMMARY:Zastal – Dinamo Bucharest
 DTSTART:20261104T173000Z
 DTEND:20261104T194500Z
-DTSTAMP:20260929T125118Z
+DTSTAMP:20260930T221454Z
 UID:fiba-135706@zastal-calendar
-SEQUENCE:3
+SEQUENCE:4
 CATEGORIES:FIBA Europe Cup,Koszykówka,Zastal
 DESCRIPTION:FIBA Europe Cup\nSezon: 2026/2027\nRegular Season · B\nGospod
- arze: Zastal Zielona Gora\nGoście: Rywal do ustalenia\nStatus: Zaplanowan
- y\nStatus źródłowy: INIT\nID źródłowe: 135706\nCzas miejscowy: 2026-
- 11-04 18:30 (Europe/Warsaw)\nPrzewidywany czas trwania: 2 godz. 15 min.\nO
- ficjalne źródło: https://www.fiba.basketball/en/events/fiba-europe-cup-
- 26-27/games
-LAST-MODIFIED:20260929T125118Z
+ arze: Zastal Zielona Gora\nGoście: Dinamo Bucharest\nStatus: Zaplanowany
+ \nStatus źródłowy: INIT\nID źródłowe: 135706\nCzas miejscowy: 2026-1
+ 1-04 18:30 (Europe/Warsaw)\nPrzewidywany czas trwania: 2 godz. 15 min.\nOf
+ icjalne źródło: https://www.fiba.basketball/en/events/fiba-europe-cup-2
+ 6-27/games/135706-ZIE-DBSC
+LAST-MODIFIED:20260930T221454Z
 LOCATION:Centrum Rekreacyjno-Sportowe Zielona Gora\, Zielona Gora\, Poland
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-URL:https://www.fiba.basketball/en/events/fiba-europe-cup-26-27/games
-X-AWAY-ID:TBD
-X-CONTENT-HASH:c147edf518b93ff8b3f5884c27f141ba95e595e112cc10a25072c7b1ba8
- d4a6d
+URL:https://www.fiba.basketball/en/events/fiba-europe-cup-26-27/games/1357
+ 06-ZIE-DBSC
+X-AWAY-ID:285092
+X-CONTENT-HASH:e5bcd3e433788cd7e5624f0a79f3ab3e7fa3deaddab74bce14c2c9b34de
+ ed026
 X-GAME-STATUS:scheduled
 X-HOME-ID:285088
 X-SEASON:2026/2027
@@ -619,34 +620,34 @@ X-SOURCE-STATUS:scheduled
 X-SOURCE-TIMEZONE:Europe/Warsaw
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rywal do ustalenia – Zastal
+SUMMARY:Dinamo Bucharest – Zastal
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
-DTSTAMP:20260903T225520Z
+DTSTAMP:20260930T221454Z
 UID:fiba-135721@zastal-calendar
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:FIBA Europe Cup,Koszykówka,Zastal
 DESCRIPTION:FIBA Europe Cup\nSezon: 2026/2027\nRegular Season · B\nGospod
- arze: Rywal do ustalenia\nGoście: Zastal Zielona Gora\nStatus: Zaplanowan
- y\nStatus źródłowy: INIT\nID źródłowe: 135721\nGodzina do ustalenia 
- (TBD). Data również może się zmienić.\nHala: brak potwierdzonych dany
- ch w źródle.\nOficjalne źródło: https://www.fiba.basketball/en/events
- /fiba-europe-cup-26-27/games
-LAST-MODIFIED:20260903T225520Z
-LOCATION:
+ arze: Dinamo Bucharest\nGoście: Zastal Zielona Gora\nStatus: Zaplanowany
+ \nStatus źródłowy: INIT\nID źródłowe: 135721\nGodzina do ustalenia (
+ TBD). Data również może się zmienić.\nOficjalne źródło: https://ww
+ w.fiba.basketball/en/events/fiba-europe-cup-26-27/games/135721-DBSC-ZIE
+LAST-MODIFIED:20260930T221454Z
+LOCATION:Arena of Dinamo\, Bucharest\, Romania
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
-URL:https://www.fiba.basketball/en/events/fiba-europe-cup-26-27/games
+URL:https://www.fiba.basketball/en/events/fiba-europe-cup-26-27/games/1357
+ 21-DBSC-ZIE
 X-AWAY-ID:285088
-X-CONTENT-HASH:5e9bcadec9edf914420927ac6954e64822723ffbc5ae617f10006bfa324
- 29765
+X-CONTENT-HASH:8fb018e13c193db430c65dbe3c8ef521a81d75603d65636ce55fd5d076f
+ 4d0a2
 X-GAME-STATUS:scheduled
-X-HOME-ID:TBD
+X-HOME-ID:285092
 X-SEASON:2026/2027
 X-SOURCE:fiba
 X-SOURCE-ID:135721
 X-SOURCE-STATUS:INIT
-X-SOURCE-TIMEZONE:TBD
+X-SOURCE-TIMEZONE:Europe/Bucharest
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Zastal – King Szczecin
@@ -1197,24 +1198,24 @@ BEGIN:VEVENT
 SUMMARY:King Szczecin – Zastal
 DTSTART:20270506T170000Z
 DTEND:20270506T191500Z
-DTSTAMP:20260903T225520Z
+DTSTAMP:20260930T221454Z
 UID:plk-223698@zastal-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:ORLEN Basket Liga,Koszykówka,Zastal
 DESCRIPTION:ORLEN Basket Liga\nSezon: 2026/2027\nRunda Zasadnicza · 30 ko
  lejka\nGospodarze: King Szczecin\nGoście: Zastal Zielona Góra\nStatus: Z
  aplanowany\nStatus źródłowy: scheduled\nID źródłowe: 223698\nCzas mi
  ejscowy: 2027-05-06 19:00 (Europe/Warsaw)\nPrzewidywany czas trwania: 2 go
- dz. 15 min.\nHala: brak potwierdzonych danych w źródle.\nOficjalne źró
- dło: https://plk.pl/mecz/223698/king-szczecin-vs-zastal-zielona-gora
-LAST-MODIFIED:20260903T225520Z
-LOCATION:
+ dz. 15 min.\nOficjalne źródło: https://plk.pl/mecz/223698/king-szczecin
+ -vs-zastal-zielona-gora
+LAST-MODIFIED:20260930T221454Z
+LOCATION:Hala Enea Arena\, Szczecin\, ul. Szafera 3/5/7
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://plk.pl/mecz/223698/king-szczecin-vs-zastal-zielona-gora
 X-AWAY-ID:769
-X-CONTENT-HASH:73cb2453c42233219d62c9f57272ab961bd596a66abd7459cbe9c71b5bd
- d9ed6
+X-CONTENT-HASH:0066babeeee6042b1b1b37569f9df9a8ba2a193ef7e9fb1cfa7a24a3566
+ d4285
 X-GAME-STATUS:scheduled
 X-HOME-ID:943
 X-SEASON:2026/2027

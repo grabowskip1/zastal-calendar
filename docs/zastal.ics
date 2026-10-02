@@ -255,27 +255,27 @@ X-SOURCE-TIMEZONE:Europe/Warsaw
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arriva Lotto Twarde Pierniki Toruń – Zastal
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
-DTSTAMP:20260929T221418Z
+DTSTART:20261031T180000Z
+DTEND:20261031T201500Z
+DTSTAMP:20261002T221322Z
 UID:plk-223493@zastal-calendar
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:ORLEN Basket Liga,Koszykówka,Zastal
 DESCRIPTION:ORLEN Basket Liga\nSezon: 2026/2027\nRunda Zasadnicza · 5 kol
  ejka\nGospodarze: Arriva Lotto Twarde Pierniki Toruń\nGoście: Zastal Zie
  lona Góra\nStatus: Zaplanowany\nStatus źródłowy: scheduled\nID źród
- łowe: 223493\nGodzina do ustalenia (TBD). Data również może się zmien
- ić.\nOficjalne źródło: https://plk.pl/mecz/223493/arriva-lotto-twarde-
- pierniki-torun-vs-zastal-zielona-gora
-LAST-MODIFIED:20260929T221418Z
+ łowe: 223493\nCzas miejscowy: 2026-10-31 19:00 (Europe/Warsaw)\nPrzewidyw
+ any czas trwania: 2 godz. 15 min.\nOficjalne źródło: https://plk.pl/mec
+ z/223493/arriva-lotto-twarde-pierniki-torun-vs-zastal-zielona-gora
+LAST-MODIFIED:20261002T221322Z
 LOCATION:Kujawsko-Pomorska Arena Toruń\, Toruń\, ul. Gen. J. Bema 73-89
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://plk.pl/mecz/223493/arriva-lotto-twarde-pierniki-torun-vs-zasta
  l-zielona-gora
 X-AWAY-ID:769
-X-CONTENT-HASH:57de6d57e347993ae3aa12b8d9f03191cc6bd28e5a0289ed52a5ca6bb13
- 506f5
+X-CONTENT-HASH:89724bce994ecec503bb48e2328e0290694402defc1c4e5aed3ef46ad15
+ c2cfd
 X-GAME-STATUS:scheduled
 X-HOME-ID:101
 X-SEASON:2026/2027

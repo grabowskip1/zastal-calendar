@@ -43,31 +43,31 @@ BEGIN:VEVENT
 SUMMARY:NHSZ-Szolnoki Olajbanyasz – Zastal
 DTSTART:20261006T160000Z
 DTEND:20261006T181500Z
-DTSTAMP:20260903T225520Z
+DTSTAMP:20261006T182111Z
 UID:fiba-135695@zastal-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIBA Europe Cup,Koszykówka,Zastal
 DESCRIPTION:FIBA Europe Cup\nSezon: 2026/2027\nRegular Season · B\nGospod
- arze: NHSZ-Szolnoki Olajbanyasz\nGoście: Zastal Zielona Gora\nStatus: Zap
- lanowany\nStatus źródłowy: INIT\nID źródłowe: 135695\nCzas miejscowy
- : 2026-10-06 18:00 (Europe/Budapest)\nPrzewidywany czas trwania: 2 godz. 1
- 5 min.\nOficjalne źródło: https://www.fiba.basketball/en/events/fiba-eu
- rope-cup-26-27/games/135695-OLAJ-ZIE
-LAST-MODIFIED:20260903T225520Z
+ arze: NHSZ-Szolnoki Olajbanyasz\nGoście: Zastal Zielona Gora\nStatus: Zak
+ ończony\nStatus źródłowy: VALID\nID źródłowe: 135695\nCzas miejscow
+ y: 2026-10-06 18:00 (Europe/Budapest)\nPrzewidywany czas trwania: 2 godz. 
+ 15 min.\nOficjalne źródło: https://www.fiba.basketball/en/events/fiba-e
+ urope-cup-26-27/games/135695-OLAJ-ZIE
+LAST-MODIFIED:20261006T182111Z
 LOCATION:Varosi Sportcsarnok\, Szolnok\, Hungary
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.fiba.basketball/en/events/fiba-europe-cup-26-27/games/1356
  95-OLAJ-ZIE
 X-AWAY-ID:285088
-X-CONTENT-HASH:c25ba1360ac72803a5d6eb59790dbc0a25bbb593e348bd791b54f4f5b91
- 25b86
-X-GAME-STATUS:scheduled
+X-CONTENT-HASH:11a4bfd0f1e3aaf98fdbb9ba114aeb919be0cb4ea20987668ec5db3d00e
+ 84ad8
+X-GAME-STATUS:finished
 X-HOME-ID:285082
 X-SEASON:2026/2027
 X-SOURCE:fiba
 X-SOURCE-ID:135695
-X-SOURCE-STATUS:INIT
+X-SOURCE-STATUS:VALID
 X-SOURCE-TIMEZONE:Europe/Budapest
 END:VEVENT
 BEGIN:VEVENT
@@ -255,27 +255,27 @@ X-SOURCE-TIMEZONE:Europe/Warsaw
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arriva Lotto Twarde Pierniki Toruń – Zastal
-DTSTART:20261031T180000Z
-DTEND:20261031T201500Z
-DTSTAMP:20261002T221322Z
+DTSTART:20261031T163000Z
+DTEND:20261031T184500Z
+DTSTAMP:20261006T182111Z
 UID:plk-223493@zastal-calendar
-SEQUENCE:3
+SEQUENCE:4
 CATEGORIES:ORLEN Basket Liga,Koszykówka,Zastal
 DESCRIPTION:ORLEN Basket Liga\nSezon: 2026/2027\nRunda Zasadnicza · 5 kol
  ejka\nGospodarze: Arriva Lotto Twarde Pierniki Toruń\nGoście: Zastal Zie
  lona Góra\nStatus: Zaplanowany\nStatus źródłowy: scheduled\nID źród
- łowe: 223493\nCzas miejscowy: 2026-10-31 19:00 (Europe/Warsaw)\nPrzewidyw
+ łowe: 223493\nCzas miejscowy: 2026-10-31 17:30 (Europe/Warsaw)\nPrzewidyw
  any czas trwania: 2 godz. 15 min.\nOficjalne źródło: https://plk.pl/mec
  z/223493/arriva-lotto-twarde-pierniki-torun-vs-zastal-zielona-gora
-LAST-MODIFIED:20261002T221322Z
+LAST-MODIFIED:20261006T182111Z
 LOCATION:Kujawsko-Pomorska Arena Toruń\, Toruń\, ul. Gen. J. Bema 73-89
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://plk.pl/mecz/223493/arriva-lotto-twarde-pierniki-torun-vs-zasta
  l-zielona-gora
 X-AWAY-ID:769
-X-CONTENT-HASH:89724bce994ecec503bb48e2328e0290694402defc1c4e5aed3ef46ad15
- c2cfd
+X-CONTENT-HASH:5600e443e389db696bdbf0a8070e453753b77843f6ee00f12faa3b5f4a8
+ db0dc
 X-GAME-STATUS:scheduled
 X-HOME-ID:101
 X-SEASON:2026/2027
@@ -317,27 +317,28 @@ X-SOURCE-TIMEZONE:Europe/Warsaw
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tasomix Rosiek Stal Ostrów Wielkopolski – Zastal
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
-DTSTAMP:20260929T221418Z
+DTSTART:20261108T163000Z
+DTEND:20261108T184500Z
+DTSTAMP:20261006T182111Z
 UID:plk-223501@zastal-calendar
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:ORLEN Basket Liga,Koszykówka,Zastal
 DESCRIPTION:ORLEN Basket Liga\nSezon: 2026/2027\nRunda Zasadnicza · 6 kol
  ejka\nGospodarze: Tasomix Rosiek Stal Ostrów Wielkopolski\nGoście: Zasta
  l Zielona Góra\nStatus: Zaplanowany\nStatus źródłowy: scheduled\nID ź
- ródłowe: 223501\nGodzina do ustalenia (TBD). Data również może się z
- mienić.\nOficjalne źródło: https://plk.pl/mecz/223501/tasomix-rosiek-s
- tal-ostrow-wielkopolski-vs-zastal-zielona-gora
-LAST-MODIFIED:20260929T221418Z
+ ródłowe: 223501\nCzas miejscowy: 2026-11-08 17:30 (Europe/Warsaw)\nPrzew
+ idywany czas trwania: 2 godz. 15 min.\nOficjalne źródło: https://plk.pl
+ /mecz/223501/tasomix-rosiek-stal-ostrow-wielkopolski-vs-zastal-zielona-gor
+ a
+LAST-MODIFIED:20261006T182111Z
 LOCATION:3mk Arena Ostrów\, Ostrów Wielkopolski \, Andrzeja Kowalczyka 1
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://plk.pl/mecz/223501/tasomix-rosiek-stal-ostrow-wielkopolski-vs-
  zastal-zielona-gora
 X-AWAY-ID:769
-X-CONTENT-HASH:3c392b8714618d34d237009a74915bdeb94358dc1a338cb5e6ef28a9881
- a64a5
+X-CONTENT-HASH:ef9fb3323a4a78948d89d08335e19ad5e5598bc982545c6226a4da0ebbd
+ afa28
 X-GAME-STATUS:scheduled
 X-HOME-ID:11309
 X-SEASON:2026/2027
@@ -379,26 +380,27 @@ X-SOURCE-TIMEZONE:Europe/Warsaw
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WKS Śląsk Wrocław – Zastal
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-DTSTAMP:20260903T225520Z
+DTSTART:20261114T183000Z
+DTEND:20261114T204500Z
+DTSTAMP:20261006T182111Z
 UID:plk-223509@zastal-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:ORLEN Basket Liga,Koszykówka,Zastal
 DESCRIPTION:ORLEN Basket Liga\nSezon: 2026/2027\nRunda Zasadnicza · 7 kol
  ejka\nGospodarze: WKS Śląsk Wrocław\nGoście: Zastal Zielona Góra\nSta
- tus: Zaplanowany\nStatus źródłowy: scheduled\nID źródłowe: 223509\nG
- odzina do ustalenia (TBD). Data również może się zmienić.\nHala: brak
-  potwierdzonych danych w źródle.\nOficjalne źródło: https://plk.pl/me
- cz/223509/wks-slask-wroclaw-vs-zastal-zielona-gora
-LAST-MODIFIED:20260903T225520Z
+ tus: Zaplanowany\nStatus źródłowy: scheduled\nID źródłowe: 223509\nC
+ zas miejscowy: 2026-11-14 19:30 (Europe/Warsaw)\nPrzewidywany czas trwania
+ : 2 godz. 15 min.\nHala: brak potwierdzonych danych w źródle.\nOficjalne
+  źródło: https://plk.pl/mecz/223509/wks-slask-wroclaw-vs-zastal-zielona
+ -gora
+LAST-MODIFIED:20261006T182111Z
 LOCATION:
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://plk.pl/mecz/223509/wks-slask-wroclaw-vs-zastal-zielona-gora
 X-AWAY-ID:769
-X-CONTENT-HASH:1853eb5c4551b015d109c15a2a70c5f6b35ebd1481b8e4151043d245932
- 4720c
+X-CONTENT-HASH:c157919324e5794f64383fe107c04767e2de29951ceeca2faf41d5fd08a
+ 91f21
 X-GAME-STATUS:scheduled
 X-HOME-ID:110
 X-SEASON:2026/2027
@@ -440,26 +442,26 @@ X-SOURCE-TIMEZONE:Europe/Bratislava
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Zastal – Dziki Warszawa
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
-DTSTAMP:20260903T225520Z
+DTSTART:20261122T113000Z
+DTEND:20261122T134500Z
+DTSTAMP:20261006T182111Z
 UID:plk-223517@zastal-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:ORLEN Basket Liga,Koszykówka,Zastal
 DESCRIPTION:ORLEN Basket Liga\nSezon: 2026/2027\nRunda Zasadnicza · 8 kol
  ejka\nGospodarze: Zastal Zielona Góra\nGoście: Dziki Warszawa\nStatus: Z
- aplanowany\nStatus źródłowy: scheduled\nID źródłowe: 223517\nGodzina
-  do ustalenia (TBD). Data również może się zmienić.\nHala: brak potwi
- erdzonych danych w źródle.\nOficjalne źródło: https://plk.pl/mecz/223
- 517/zastal-zielona-gora-vs-dziki-warszawa
-LAST-MODIFIED:20260903T225520Z
+ aplanowany\nStatus źródłowy: scheduled\nID źródłowe: 223517\nCzas mi
+ ejscowy: 2026-11-22 12:30 (Europe/Warsaw)\nPrzewidywany czas trwania: 2 go
+ dz. 15 min.\nHala: brak potwierdzonych danych w źródle.\nOficjalne źró
+ dło: https://plk.pl/mecz/223517/zastal-zielona-gora-vs-dziki-warszawa
+LAST-MODIFIED:20261006T182111Z
 LOCATION:
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://plk.pl/mecz/223517/zastal-zielona-gora-vs-dziki-warszawa
 X-AWAY-ID:11257
-X-CONTENT-HASH:eb51d332c99d0736ff0652a0f351f401202a175aa3c8e722362fe0084e1
- 14a0c
+X-CONTENT-HASH:f83ed2a1c32251b018d25025e81e8d0920ead1fa91aa8bc5a7bd2e65f90
+ b3441
 X-GAME-STATUS:scheduled
 X-HOME-ID:769
 X-SEASON:2026/2027

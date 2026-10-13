@@ -686,9 +686,9 @@ BEGIN:VEVENT
 SUMMARY:Górnik Zamek Książ Wałbrzych – Zastal
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
-DTSTAMP:20260929T221418Z
+DTSTAMP:20261013T224409Z
 UID:plk-223557@zastal-calendar
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:ORLEN Basket Liga,Koszykówka,Zastal
 DESCRIPTION:ORLEN Basket Liga\nSezon: 2026/2027\nRunda Zasadnicza · 13 ko
  lejka\nGospodarze: Górnik Zamek Książ Wałbrzych\nGoście: Zastal Zielo
@@ -696,15 +696,16 @@ DESCRIPTION:ORLEN Basket Liga\nSezon: 2026/2027\nRunda Zasadnicza · 13 ko
  we: 223557\nGodzina do ustalenia (TBD). Data również może się zmienić
  .\nOficjalne źródło: https://plk.pl/mecz/223557/gornik-zamek-ksiaz-walb
  rzych-vs-zastal-zielona-gora
-LAST-MODIFIED:20260929T221418Z
-LOCATION:Hala Mistrzów \, Wałbrzych\, Wysockiego 11 A
+LAST-MODIFIED:20261013T224409Z
+LOCATION:Hala Widowiskowo-Sportowa Aqua Zdrój\, Wałbrzych\, ul. Ratuszow
+ a 6
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 URL:https://plk.pl/mecz/223557/gornik-zamek-ksiaz-walbrzych-vs-zastal-ziel
  ona-gora
 X-AWAY-ID:769
-X-CONTENT-HASH:518b93cb462d77e1ecf8fec8b021495aa5dcee7d7b99f6a44b95127ceff
- 6e040
+X-CONTENT-HASH:1226f2ca0ec0246394ddbca30f6d3b299b637223d2d980836899f542191
+ d78bb
 X-GAME-STATUS:scheduled
 X-HOME-ID:11296
 X-SEASON:2026/2027

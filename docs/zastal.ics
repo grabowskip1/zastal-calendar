@@ -1081,24 +1081,23 @@ BEGIN:VEVENT
 SUMMARY:Legia Warszawa – Zastal
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
-DTSTAMP:20260903T225520Z
+DTSTAMP:20261016T043050Z
 UID:plk-223668@zastal-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:ORLEN Basket Liga,Koszykówka,Zastal
 DESCRIPTION:ORLEN Basket Liga\nSezon: 2026/2027\nRunda Zasadnicza · 26 ko
  lejka\nGospodarze: Legia Warszawa\nGoście: Zastal Zielona Góra\nStatus: 
  Zaplanowany\nStatus źródłowy: scheduled\nID źródłowe: 223668\nGodzin
- a do ustalenia (TBD). Data również może się zmienić.\nHala: brak potw
- ierdzonych danych w źródle.\nOficjalne źródło: https://plk.pl/mecz/22
- 3668/legia-warszawa-vs-zastal-zielona-gora
-LAST-MODIFIED:20260903T225520Z
-LOCATION:
+ a do ustalenia (TBD). Data również może się zmienić.\nOficjalne źró
+ dło: https://plk.pl/mecz/223668/legia-warszawa-vs-zastal-zielona-gora
+LAST-MODIFIED:20261016T043050Z
+LOCATION:OSiR Warszawa Bemowo\, Warszawa\, ul. Obrońców Tobruku 40
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 URL:https://plk.pl/mecz/223668/legia-warszawa-vs-zastal-zielona-gora
 X-AWAY-ID:769
-X-CONTENT-HASH:71655b719ae6b931a10c3dd03dce227c50afac27627968c3f32bfd160af
- 53747
+X-CONTENT-HASH:0361053ef4efa454d6312006338972ad3a1f150f4675787d0389af7a85a
+ cbdf5
 X-GAME-STATUS:scheduled
 X-HOME-ID:11
 X-SEASON:2026/2027

@@ -135,30 +135,30 @@ BEGIN:VEVENT
 SUMMARY:Euvic GTK Gliwice – Zastal
 DTSTART:20261017T130000Z
 DTEND:20261017T151500Z
-DTSTAMP:20260929T221418Z
+DTSTAMP:20261017T153309Z
 UID:plk-223477@zastal-calendar
-SEQUENCE:3
+SEQUENCE:4
 CATEGORIES:ORLEN Basket Liga,Koszykówka,Zastal
 DESCRIPTION:ORLEN Basket Liga\nSezon: 2026/2027\nRunda Zasadnicza · 3 kol
  ejka\nGospodarze: Euvic GTK Gliwice\nGoście: Zastal Zielona Góra\nStatus
- : Zaplanowany\nStatus źródłowy: scheduled\nID źródłowe: 223477\nCzas
-  miejscowy: 2026-10-17 15:00 (Europe/Warsaw)\nPrzewidywany czas trwania: 2
-  godz. 15 min.\nOficjalne źródło: https://plk.pl/mecz/223477/euvic-gtk-
- gliwice-vs-zastal-zielona-gora
-LAST-MODIFIED:20260929T221418Z
+ : Zakończony\nStatus źródłowy: finished\nID źródłowe: 223477\nCzas 
+ miejscowy: 2026-10-17 15:00 (Europe/Warsaw)\nPrzewidywany czas trwania: 2 
+ godz. 15 min.\nOficjalne źródło: https://plk.pl/mecz/223477/euvic-gtk-g
+ liwice-vs-zastal-zielona-gora
+LAST-MODIFIED:20261017T153309Z
 LOCATION:Prezero Arena Gliwice\, Gliwice\, Akademicka 50
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://plk.pl/mecz/223477/euvic-gtk-gliwice-vs-zastal-zielona-gora
 X-AWAY-ID:769
-X-CONTENT-HASH:b2a351abe2f0ff66c3039595d5a591f6ccf27fed2f42cce25bf103fa7af
- c4149
-X-GAME-STATUS:scheduled
+X-CONTENT-HASH:372ffeb483b3e7e9f90062338de474f34bac401782a2b39c179e485700a
+ 3cb23
+X-GAME-STATUS:finished
 X-HOME-ID:2310
 X-SEASON:2026/2027
 X-SOURCE:plk
 X-SOURCE-ID:223477
-X-SOURCE-STATUS:scheduled
+X-SOURCE-STATUS:finished
 X-SOURCE-TIMEZONE:Europe/Warsaw
 END:VEVENT
 BEGIN:VEVENT

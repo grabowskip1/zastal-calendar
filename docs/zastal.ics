@@ -255,27 +255,27 @@ X-SOURCE-TIMEZONE:Europe/Warsaw
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arriva Lotto Twarde Pierniki Toruń – Zastal
-DTSTART:20261031T163000Z
-DTEND:20261031T184500Z
-DTSTAMP:20261006T182111Z
+DTSTART:20261031T190000Z
+DTEND:20261031T211500Z
+DTSTAMP:20261019T131156Z
 UID:plk-223493@zastal-calendar
-SEQUENCE:4
+SEQUENCE:5
 CATEGORIES:ORLEN Basket Liga,Koszykówka,Zastal
 DESCRIPTION:ORLEN Basket Liga\nSezon: 2026/2027\nRunda Zasadnicza · 5 kol
  ejka\nGospodarze: Arriva Lotto Twarde Pierniki Toruń\nGoście: Zastal Zie
  lona Góra\nStatus: Zaplanowany\nStatus źródłowy: scheduled\nID źród
- łowe: 223493\nCzas miejscowy: 2026-10-31 17:30 (Europe/Warsaw)\nPrzewidyw
+ łowe: 223493\nCzas miejscowy: 2026-10-31 20:00 (Europe/Warsaw)\nPrzewidyw
  any czas trwania: 2 godz. 15 min.\nOficjalne źródło: https://plk.pl/mec
  z/223493/arriva-lotto-twarde-pierniki-torun-vs-zastal-zielona-gora
-LAST-MODIFIED:20261006T182111Z
+LAST-MODIFIED:20261019T131156Z
 LOCATION:Kujawsko-Pomorska Arena Toruń\, Toruń\, ul. Gen. J. Bema 73-89
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://plk.pl/mecz/223493/arriva-lotto-twarde-pierniki-torun-vs-zasta
  l-zielona-gora
 X-AWAY-ID:769
-X-CONTENT-HASH:5600e443e389db696bdbf0a8070e453753b77843f6ee00f12faa3b5f4a8
- db0dc
+X-CONTENT-HASH:1b0bb25891f0b08bf6ec497a1ff2a9a52e1c94d86b04cef2e08146efe91
+ 33cc1
 X-GAME-STATUS:scheduled
 X-HOME-ID:101
 X-SEASON:2026/2027
@@ -472,26 +472,26 @@ X-SOURCE-TIMEZONE:Europe/Warsaw
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Energa Trefl Sopot – Zastal
-DTSTART;VALUE=DATE:20261206
-DTEND;VALUE=DATE:20261207
-DTSTAMP:20260925T171003Z
+DTSTART:20261206T113000Z
+DTEND:20261206T134500Z
+DTSTAMP:20261019T131156Z
 UID:plk-223525@zastal-calendar
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:ORLEN Basket Liga,Koszykówka,Zastal
 DESCRIPTION:ORLEN Basket Liga\nSezon: 2026/2027\nRunda Zasadnicza · 9 kol
  ejka\nGospodarze: Energa Trefl Sopot\nGoście: Zastal Zielona Góra\nStatu
- s: Zaplanowany\nStatus źródłowy: scheduled\nID źródłowe: 223525\nGod
- zina do ustalenia (TBD). Data również może się zmienić.\nOficjalne ź
- ródło: https://plk.pl/mecz/223525/energa-trefl-sopot-vs-zastal-zielona-g
- ora
-LAST-MODIFIED:20260925T171003Z
+ s: Zaplanowany\nStatus źródłowy: scheduled\nID źródłowe: 223525\nCza
+ s miejscowy: 2026-12-06 12:30 (Europe/Warsaw)\nPrzewidywany czas trwania: 
+ 2 godz. 15 min.\nOficjalne źródło: https://plk.pl/mecz/223525/energa-tr
+ efl-sopot-vs-zastal-zielona-gora
+LAST-MODIFIED:20261019T131156Z
 LOCATION:Ergo Arena\, Sopot\, ul. Plac Dwóch Miast 1
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://plk.pl/mecz/223525/energa-trefl-sopot-vs-zastal-zielona-gora
 X-AWAY-ID:769
-X-CONTENT-HASH:432c0ab8b07453734c5a361953a59e2ffc0e5c8219221c31c9e231d3583
- 7b5a7
+X-CONTENT-HASH:c8ac93470cdff76ccbcb6336ce1fd41292d5f08cef3b34fadcb20ef0289
+ fbb36
 X-GAME-STATUS:scheduled
 X-HOME-ID:112
 X-SEASON:2026/2027
@@ -594,25 +594,25 @@ X-SOURCE-TIMEZONE:Europe/Brussels
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PGE Start Lublin – Zastal
-DTSTART;VALUE=DATE:20261220
-DTEND;VALUE=DATE:20261221
-DTSTAMP:20260929T221418Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+DTSTAMP:20261019T131156Z
 UID:plk-223541@zastal-calendar
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:ORLEN Basket Liga,Koszykówka,Zastal
 DESCRIPTION:ORLEN Basket Liga\nSezon: 2026/2027\nRunda Zasadnicza · 11 ko
  lejka\nGospodarze: PGE Start Lublin\nGoście: Zastal Zielona Góra\nStatus
  : Zaplanowany\nStatus źródłowy: scheduled\nID źródłowe: 223541\nGodz
  ina do ustalenia (TBD). Data również może się zmienić.\nOficjalne źr
  ódło: https://plk.pl/mecz/223541/pge-start-lublin-vs-zastal-zielona-gora
-LAST-MODIFIED:20260929T221418Z
+LAST-MODIFIED:20261019T131156Z
 LOCATION:Hala im. Zdzisława Niedzieli\, Lublin\, Al.Zygmuntowskie 4
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 URL:https://plk.pl/mecz/223541/pge-start-lublin-vs-zastal-zielona-gora
 X-AWAY-ID:769
-X-CONTENT-HASH:77c67fe1329ac6a2625efef857dea9abf632d87a7139920f3fc2e52f146
- 2e053
+X-CONTENT-HASH:00260e8ef3da6a375034e6a8c2c0d4124c5089ad23d06559eba1ff8386b
+ 3118a
 X-GAME-STATUS:scheduled
 X-HOME-ID:22
 X-SEASON:2026/2027

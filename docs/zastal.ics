@@ -74,24 +74,24 @@ BEGIN:VEVENT
 SUMMARY:Zastal – Legia Warszawa
 DTSTART:20261009T160000Z
 DTEND:20261009T181500Z
-DTSTAMP:20261009T223734Z
+DTSTAMP:20261020T170200Z
 UID:plk-223469@zastal-calendar
-SEQUENCE:3
+SEQUENCE:4
 CATEGORIES:ORLEN Basket Liga,Koszykówka,Zastal
 DESCRIPTION:ORLEN Basket Liga\nSezon: 2026/2027\nRunda Zasadnicza · 2 kol
  ejka\nGospodarze: Zastal Zielona Góra\nGoście: Legia Warszawa\nStatus: Z
  akończony\nStatus źródłowy: finished\nID źródłowe: 223469\nCzas mie
  jscowy: 2026-10-09 18:00 (Europe/Warsaw)\nPrzewidywany czas trwania: 2 god
- z. 15 min.\nHala: brak potwierdzonych danych w źródle.\nOficjalne źród
- ło: https://plk.pl/mecz/223469/zastal-zielona-gora-vs-legia-warszawa
-LAST-MODIFIED:20261009T223734Z
-LOCATION:
+ z. 15 min.\nOficjalne źródło: https://plk.pl/mecz/223469/zastal-zielona
+ -gora-vs-legia-warszawa
+LAST-MODIFIED:20261020T170200Z
+LOCATION:Centrum Rekreacyjno-Sportowe\, Zielona Góra\, Sulechowska 41
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://plk.pl/mecz/223469/zastal-zielona-gora-vs-legia-warszawa
 X-AWAY-ID:11
-X-CONTENT-HASH:a14e42032a8305d57017cde1983b6ccbe1e559f5e67a0fe15941ba84106
- 813b0
+X-CONTENT-HASH:99d6adbe1274c18570554696f93210dc491bdcabc8aabf95322741718aa
+ 7d9a7
 X-GAME-STATUS:finished
 X-HOME-ID:769
 X-SEASON:2026/2027
@@ -196,24 +196,24 @@ BEGIN:VEVENT
 SUMMARY:Zastal – Anwil Włocławek
 DTSTART:20261024T153000Z
 DTEND:20261024T174500Z
-DTSTAMP:20260903T225520Z
+DTSTAMP:20261020T170200Z
 UID:plk-223485@zastal-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:ORLEN Basket Liga,Koszykówka,Zastal
 DESCRIPTION:ORLEN Basket Liga\nSezon: 2026/2027\nRunda Zasadnicza · 4 kol
  ejka\nGospodarze: Zastal Zielona Góra\nGoście: Anwil Włocławek\nStatus
  : Zaplanowany\nStatus źródłowy: scheduled\nID źródłowe: 223485\nCzas
   miejscowy: 2026-10-24 17:30 (Europe/Warsaw)\nPrzewidywany czas trwania: 2
-  godz. 15 min.\nHala: brak potwierdzonych danych w źródle.\nOficjalne ź
- ródło: https://plk.pl/mecz/223485/zastal-zielona-gora-vs-anwil-wloclawek
-LAST-MODIFIED:20260903T225520Z
-LOCATION:
+  godz. 15 min.\nOficjalne źródło: https://plk.pl/mecz/223485/zastal-zie
+ lona-gora-vs-anwil-wloclawek
+LAST-MODIFIED:20261020T170200Z
+LOCATION:Centrum Rekreacyjno-Sportowe\, Zielona Góra\, Sulechowska 41
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://plk.pl/mecz/223485/zastal-zielona-gora-vs-anwil-wloclawek
 X-AWAY-ID:33
-X-CONTENT-HASH:296cbdd324fafe64c803aed7a93522258bf6e0b52e4be4b26ca9c0efc2a
- bc45f
+X-CONTENT-HASH:73f50c979cb3e87462b0ac5eef88fa931b9a259a1e48ea1a1a85eacd8b1
+ 56fc7
 X-GAME-STATUS:scheduled
 X-HOME-ID:769
 X-SEASON:2026/2027
@@ -472,26 +472,26 @@ X-SOURCE-TIMEZONE:Europe/Warsaw
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Energa Trefl Sopot – Zastal
-DTSTART:20261206T113000Z
-DTEND:20261206T134500Z
-DTSTAMP:20261019T131156Z
+DTSTART:20261206T163000Z
+DTEND:20261206T184500Z
+DTSTAMP:20261020T170200Z
 UID:plk-223525@zastal-calendar
-SEQUENCE:3
+SEQUENCE:4
 CATEGORIES:ORLEN Basket Liga,Koszykówka,Zastal
 DESCRIPTION:ORLEN Basket Liga\nSezon: 2026/2027\nRunda Zasadnicza · 9 kol
  ejka\nGospodarze: Energa Trefl Sopot\nGoście: Zastal Zielona Góra\nStatu
  s: Zaplanowany\nStatus źródłowy: scheduled\nID źródłowe: 223525\nCza
- s miejscowy: 2026-12-06 12:30 (Europe/Warsaw)\nPrzewidywany czas trwania: 
+ s miejscowy: 2026-12-06 17:30 (Europe/Warsaw)\nPrzewidywany czas trwania: 
  2 godz. 15 min.\nOficjalne źródło: https://plk.pl/mecz/223525/energa-tr
  efl-sopot-vs-zastal-zielona-gora
-LAST-MODIFIED:20261019T131156Z
+LAST-MODIFIED:20261020T170200Z
 LOCATION:Ergo Arena\, Sopot\, ul. Plac Dwóch Miast 1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://plk.pl/mecz/223525/energa-trefl-sopot-vs-zastal-zielona-gora
 X-AWAY-ID:769
-X-CONTENT-HASH:c8ac93470cdff76ccbcb6336ce1fd41292d5f08cef3b34fadcb20ef0289
- fbb36
+X-CONTENT-HASH:6de1f447dd1942521576aae35b4bd15a902a2d13046fd6ff0bba2a58490
+ ab4ca
 X-GAME-STATUS:scheduled
 X-HOME-ID:112
 X-SEASON:2026/2027
@@ -778,24 +778,24 @@ BEGIN:VEVENT
 SUMMARY:Zastal – WKS Śląsk Wrocław
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
-DTSTAMP:20260903T225520Z
+DTSTAMP:20261020T170200Z
 UID:plk-223584@zastal-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:ORLEN Basket Liga,Koszykówka,Zastal
 DESCRIPTION:ORLEN Basket Liga\nSezon: 2026/2027\nRunda Zasadnicza · 16 ko
  lejka\nGospodarze: Zastal Zielona Góra\nGoście: WKS Śląsk Wrocław\nSt
  atus: Zaplanowany\nStatus źródłowy: scheduled\nID źródłowe: 223584\n
- Godzina do ustalenia (TBD). Data również może się zmienić.\nHala: bra
- k potwierdzonych danych w źródle.\nOficjalne źródło: https://plk.pl/m
- ecz/223584/zastal-zielona-gora-vs-wks-slask-wroclaw
-LAST-MODIFIED:20260903T225520Z
-LOCATION:
+ Godzina do ustalenia (TBD). Data również może się zmienić.\nOficjalne
+  źródło: https://plk.pl/mecz/223584/zastal-zielona-gora-vs-wks-slask-wr
+ oclaw
+LAST-MODIFIED:20261020T170200Z
+LOCATION:Centrum Rekreacyjno-Sportowe\, Zielona Góra\, Sulechowska 41
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 URL:https://plk.pl/mecz/223584/zastal-zielona-gora-vs-wks-slask-wroclaw
 X-AWAY-ID:110
-X-CONTENT-HASH:57301a653405c6195a3de040c8baea8ec97a2b6b04f96887b97724a6b23
- d4400
+X-CONTENT-HASH:9b6f1bcddc194a359e650f1dda7365b8c24267994a07a111ae362f816d2
+ 8ac41
 X-GAME-STATUS:scheduled
 X-HOME-ID:769
 X-SEASON:2026/2027
@@ -987,24 +987,24 @@ BEGIN:VEVENT
 SUMMARY:Zastal – Energa Trefl Sopot
 DTSTART;VALUE=DATE:20270322
 DTEND;VALUE=DATE:20270323
-DTSTAMP:20260903T225520Z
+DTSTAMP:20261020T170200Z
 UID:plk-223638@zastal-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:ORLEN Basket Liga,Koszykówka,Zastal
 DESCRIPTION:ORLEN Basket Liga\nSezon: 2026/2027\nRunda Zasadnicza · 23 ko
  lejka\nGospodarze: Zastal Zielona Góra\nGoście: Energa Trefl Sopot\nStat
  us: Zaplanowany\nStatus źródłowy: scheduled\nID źródłowe: 223638\nGo
- dzina do ustalenia (TBD). Data również może się zmienić.\nHala: brak 
- potwierdzonych danych w źródle.\nOficjalne źródło: https://plk.pl/mec
- z/223638/zastal-zielona-gora-vs-energa-trefl-sopot
-LAST-MODIFIED:20260903T225520Z
-LOCATION:
+ dzina do ustalenia (TBD). Data również może się zmienić.\nOficjalne 
+ źródło: https://plk.pl/mecz/223638/zastal-zielona-gora-vs-energa-trefl-
+ sopot
+LAST-MODIFIED:20261020T170200Z
+LOCATION:Centrum Rekreacyjno-Sportowe\, Zielona Góra\, Sulechowska 41
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 URL:https://plk.pl/mecz/223638/zastal-zielona-gora-vs-energa-trefl-sopot
 X-AWAY-ID:112
-X-CONTENT-HASH:936c7bf96fe98d7206d2b62514c89fc0dc80510c6dadbefcec44d50869b
- 5e59b
+X-CONTENT-HASH:c62fca6142739a4e57de2592e50aa70eb02a7aec1c79abab429b236e490
+ 4ae2d
 X-GAME-STATUS:scheduled
 X-HOME-ID:769
 X-SEASON:2026/2027
@@ -1049,26 +1049,25 @@ BEGIN:VEVENT
 SUMMARY:Zastal – Enea Łaciate Astoria Bydgoszcz
 DTSTART;VALUE=DATE:20270405
 DTEND;VALUE=DATE:20270406
-DTSTAMP:20260903T225520Z
+DTSTAMP:20261020T170200Z
 UID:plk-223653@zastal-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:ORLEN Basket Liga,Koszykówka,Zastal
 DESCRIPTION:ORLEN Basket Liga\nSezon: 2026/2027\nRunda Zasadnicza · 25 ko
  lejka\nGospodarze: Zastal Zielona Góra\nGoście: Enea Łaciate Astoria By
  dgoszcz\nStatus: Zaplanowany\nStatus źródłowy: scheduled\nID źródłow
  e: 223653\nGodzina do ustalenia (TBD). Data również może się zmienić.
- \nHala: brak potwierdzonych danych w źródle.\nOficjalne źródło: https
- ://plk.pl/mecz/223653/zastal-zielona-gora-vs-enea-laciate-astoria-bydgoszc
- z
-LAST-MODIFIED:20260903T225520Z
-LOCATION:
+ \nOficjalne źródło: https://plk.pl/mecz/223653/zastal-zielona-gora-vs-e
+ nea-laciate-astoria-bydgoszcz
+LAST-MODIFIED:20261020T170200Z
+LOCATION:Centrum Rekreacyjno-Sportowe\, Zielona Góra\, Sulechowska 41
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 URL:https://plk.pl/mecz/223653/zastal-zielona-gora-vs-enea-laciate-astoria
  -bydgoszcz
 X-AWAY-ID:4162
-X-CONTENT-HASH:0c1a4e4619a8aa1ded83a6c7f268bafbd15f3e3ef0dc4cce7cc5861f786
- 3aadf
+X-CONTENT-HASH:d6a7caf274e862307eb6140eb3ce78c0c4cbc3766c5d1dbdef66d3f6661
+ 4ae40
 X-GAME-STATUS:scheduled
 X-HOME-ID:769
 X-SEASON:2026/2027

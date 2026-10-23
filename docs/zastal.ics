@@ -382,25 +382,24 @@ BEGIN:VEVENT
 SUMMARY:WKS Śląsk Wrocław – Zastal
 DTSTART:20261114T183000Z
 DTEND:20261114T204500Z
-DTSTAMP:20261006T182111Z
+DTSTAMP:20261023T212329Z
 UID:plk-223509@zastal-calendar
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:ORLEN Basket Liga,Koszykówka,Zastal
 DESCRIPTION:ORLEN Basket Liga\nSezon: 2026/2027\nRunda Zasadnicza · 7 kol
  ejka\nGospodarze: WKS Śląsk Wrocław\nGoście: Zastal Zielona Góra\nSta
  tus: Zaplanowany\nStatus źródłowy: scheduled\nID źródłowe: 223509\nC
  zas miejscowy: 2026-11-14 19:30 (Europe/Warsaw)\nPrzewidywany czas trwania
- : 2 godz. 15 min.\nHala: brak potwierdzonych danych w źródle.\nOficjalne
-  źródło: https://plk.pl/mecz/223509/wks-slask-wroclaw-vs-zastal-zielona
- -gora
-LAST-MODIFIED:20261006T182111Z
-LOCATION:
+ : 2 godz. 15 min.\nOficjalne źródło: https://plk.pl/mecz/223509/wks-sla
+ sk-wroclaw-vs-zastal-zielona-gora
+LAST-MODIFIED:20261023T212329Z
+LOCATION:Hala Orbita\, Wrocław\, Wejherowska 34
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://plk.pl/mecz/223509/wks-slask-wroclaw-vs-zastal-zielona-gora
 X-AWAY-ID:769
-X-CONTENT-HASH:c157919324e5794f64383fe107c04767e2de29951ceeca2faf41d5fd08a
- 91f21
+X-CONTENT-HASH:65198f1f3ca0492d3597065444f78d94e090f18cd2e2f513fed71ae2c1e
+ 901d9
 X-GAME-STATUS:scheduled
 X-HOME-ID:110
 X-SEASON:2026/2027

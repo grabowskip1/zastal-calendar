@@ -196,30 +196,30 @@ BEGIN:VEVENT
 SUMMARY:Zastal – Anwil Włocławek
 DTSTART:20261024T153000Z
 DTEND:20261024T174500Z
-DTSTAMP:20261020T170200Z
+DTSTAMP:20261024T204803Z
 UID:plk-223485@zastal-calendar
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:ORLEN Basket Liga,Koszykówka,Zastal
 DESCRIPTION:ORLEN Basket Liga\nSezon: 2026/2027\nRunda Zasadnicza · 4 kol
  ejka\nGospodarze: Zastal Zielona Góra\nGoście: Anwil Włocławek\nStatus
- : Zaplanowany\nStatus źródłowy: scheduled\nID źródłowe: 223485\nCzas
-  miejscowy: 2026-10-24 17:30 (Europe/Warsaw)\nPrzewidywany czas trwania: 2
-  godz. 15 min.\nOficjalne źródło: https://plk.pl/mecz/223485/zastal-zie
- lona-gora-vs-anwil-wloclawek
-LAST-MODIFIED:20261020T170200Z
+ : Zakończony\nStatus źródłowy: finished\nID źródłowe: 223485\nCzas 
+ miejscowy: 2026-10-24 17:30 (Europe/Warsaw)\nPrzewidywany czas trwania: 2 
+ godz. 15 min.\nOficjalne źródło: https://plk.pl/mecz/223485/zastal-ziel
+ ona-gora-vs-anwil-wloclawek
+LAST-MODIFIED:20261024T204803Z
 LOCATION:Centrum Rekreacyjno-Sportowe\, Zielona Góra\, Sulechowska 41
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://plk.pl/mecz/223485/zastal-zielona-gora-vs-anwil-wloclawek
 X-AWAY-ID:33
-X-CONTENT-HASH:73f50c979cb3e87462b0ac5eef88fa931b9a259a1e48ea1a1a85eacd8b1
- 56fc7
-X-GAME-STATUS:scheduled
+X-CONTENT-HASH:c8efd11c3ce7d33cfaf57ae0a8b8a91562b7dae075b868db47a17b24be1
+ 257cb
+X-GAME-STATUS:finished
 X-HOME-ID:769
 X-SEASON:2026/2027
 X-SOURCE:plk
 X-SOURCE-ID:223485
-X-SOURCE-STATUS:scheduled
+X-SOURCE-STATUS:finished
 X-SOURCE-TIMEZONE:Europe/Warsaw
 END:VEVENT
 BEGIN:VEVENT

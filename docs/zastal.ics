@@ -286,27 +286,27 @@ X-SOURCE-TIMEZONE:Europe/Warsaw
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Zastal – Dinamo Bucharest
-DTSTART:20261104T173000Z
-DTEND:20261104T194500Z
-DTSTAMP:20260930T221454Z
+DTSTART:20261104T180000Z
+DTEND:20261104T201500Z
+DTSTAMP:20261026T223924Z
 UID:fiba-135706@zastal-calendar
-SEQUENCE:4
+SEQUENCE:5
 CATEGORIES:FIBA Europe Cup,Koszykówka,Zastal
 DESCRIPTION:FIBA Europe Cup\nSezon: 2026/2027\nRegular Season · B\nGospod
  arze: Zastal Zielona Gora\nGoście: Dinamo Bucharest\nStatus: Zaplanowany
  \nStatus źródłowy: INIT\nID źródłowe: 135706\nCzas miejscowy: 2026-1
- 1-04 18:30 (Europe/Warsaw)\nPrzewidywany czas trwania: 2 godz. 15 min.\nOf
+ 1-04 19:00 (Europe/Warsaw)\nPrzewidywany czas trwania: 2 godz. 15 min.\nOf
  icjalne źródło: https://www.fiba.basketball/en/events/fiba-europe-cup-2
  6-27/games/135706-ZIE-DBSC
-LAST-MODIFIED:20260930T221454Z
+LAST-MODIFIED:20261026T223924Z
 LOCATION:Centrum Rekreacyjno-Sportowe Zielona Gora\, Zielona Gora\, Poland
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.fiba.basketball/en/events/fiba-europe-cup-26-27/games/1357
  06-ZIE-DBSC
 X-AWAY-ID:285092
-X-CONTENT-HASH:e5bcd3e433788cd7e5624f0a79f3ab3e7fa3deaddab74bce14c2c9b34de
- ed026
+X-CONTENT-HASH:39322814aa47938a7709ddd4c921e4ce4e4bb9ba29d1b9e0ac22d2f5d14
+ 21e1e
 X-GAME-STATUS:scheduled
 X-HOME-ID:285088
 X-SEASON:2026/2027

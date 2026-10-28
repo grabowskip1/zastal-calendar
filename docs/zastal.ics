@@ -226,31 +226,31 @@ BEGIN:VEVENT
 SUMMARY:Zastal – Coretec Oostende
 DTSTART:20261028T173000Z
 DTEND:20261028T194500Z
-DTSTAMP:20260929T125118Z
+DTSTAMP:20261028T223355Z
 UID:fiba-135704@zastal-calendar
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:FIBA Europe Cup,Koszykówka,Zastal
 DESCRIPTION:FIBA Europe Cup\nSezon: 2026/2027\nRegular Season · B\nGospod
- arze: Zastal Zielona Gora\nGoście: Coretec Oostende\nStatus: Zaplanowany
- \nStatus źródłowy: INIT\nID źródłowe: 135704\nCzas miejscowy: 2026-1
- 0-28 18:30 (Europe/Warsaw)\nPrzewidywany czas trwania: 2 godz. 15 min.\nOf
- icjalne źródło: https://www.fiba.basketball/en/events/fiba-europe-cup-2
- 6-27/games/135704-ZIE-BCO
-LAST-MODIFIED:20260929T125118Z
+ arze: Zastal Zielona Gora\nGoście: Coretec Oostende\nStatus: Zakończony
+ \nStatus źródłowy: VALID\nID źródłowe: 135704\nCzas miejscowy: 2026-
+ 10-28 18:30 (Europe/Warsaw)\nPrzewidywany czas trwania: 2 godz. 15 min.\nO
+ ficjalne źródło: https://www.fiba.basketball/en/events/fiba-europe-cup-
+ 26-27/games/135704-ZIE-BCO
+LAST-MODIFIED:20261028T223355Z
 LOCATION:Centrum Rekreacyjno-Sportowe Zielona Gora\, Zielona Gora\, Poland
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.fiba.basketball/en/events/fiba-europe-cup-26-27/games/1357
  04-ZIE-BCO
 X-AWAY-ID:285308
-X-CONTENT-HASH:f28b95faad5458b44f82adaf1bea62676241927d902a388576524494884
- df390
-X-GAME-STATUS:scheduled
+X-CONTENT-HASH:87b10cc4b7cc83bb8df11360e9d612958de4c77b96a3b7138d45fad5e96
+ a904d
+X-GAME-STATUS:finished
 X-HOME-ID:285088
 X-SEASON:2026/2027
 X-SOURCE:fiba
 X-SOURCE-ID:135704
-X-SOURCE-STATUS:INIT
+X-SOURCE-STATUS:VALID
 X-SOURCE-TIMEZONE:Europe/Warsaw
 END:VEVENT
 BEGIN:VEVENT

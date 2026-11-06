@@ -803,11 +803,11 @@ X-SOURCE-TIMEZONE:Europe/Warsaw
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Zastal – Energa Czarni Słupsk
-DTSTART;VALUE=DATE:20270122
-DTEND;VALUE=DATE:20270123
-DTSTAMP:20261020T213613Z
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270126
+DTSTAMP:20261106T192335Z
 UID:plk-223593@zastal-calendar
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:ORLEN Basket Liga,Koszykówka,Zastal
 DESCRIPTION:ORLEN Basket Liga\nSezon: 2026/2027\nRunda Zasadnicza · 17 ko
  lejka\nGospodarze: Zastal Zielona Góra\nGoście: Energa Czarni Słupsk\nS
@@ -815,14 +815,14 @@ DESCRIPTION:ORLEN Basket Liga\nSezon: 2026/2027\nRunda Zasadnicza · 17 ko
  \nGodzina do ustalenia (TBD). Data również może się zmienić.\nOficjal
  ne źródło: https://plk.pl/mecz/223593/zastal-zielona-gora-vs-energa-cza
  rni-slupsk
-LAST-MODIFIED:20261020T213613Z
+LAST-MODIFIED:20261106T192335Z
 LOCATION:Centrum Rekreacyjno-Sportowe\, Zielona Góra\, Sulechowska 41
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 URL:https://plk.pl/mecz/223593/zastal-zielona-gora-vs-energa-czarni-slupsk
 X-AWAY-ID:8607
-X-CONTENT-HASH:1aafbc262e9af1eac425652d42d248098accb08764dd3c290733a69c62b
- 2faa7
+X-CONTENT-HASH:143b32b33b6b0c2e0f103fc8ec764c6774bd43126262d7b3afa9ed9b4d8
+ 22c31
 X-GAME-STATUS:scheduled
 X-HOME-ID:769
 X-SEASON:2026/2027

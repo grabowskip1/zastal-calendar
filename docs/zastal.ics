@@ -319,32 +319,31 @@ BEGIN:VEVENT
 SUMMARY:Tasomix Rosiek Stal Ostrów Wielkopolski – Zastal
 DTSTART:20261108T163000Z
 DTEND:20261108T184500Z
-DTSTAMP:20261006T182111Z
+DTSTAMP:20261108T220237Z
 UID:plk-223501@zastal-calendar
-SEQUENCE:3
+SEQUENCE:4
 CATEGORIES:ORLEN Basket Liga,Koszykówka,Zastal
 DESCRIPTION:ORLEN Basket Liga\nSezon: 2026/2027\nRunda Zasadnicza · 6 kol
  ejka\nGospodarze: Tasomix Rosiek Stal Ostrów Wielkopolski\nGoście: Zasta
- l Zielona Góra\nStatus: Zaplanowany\nStatus źródłowy: scheduled\nID ź
- ródłowe: 223501\nCzas miejscowy: 2026-11-08 17:30 (Europe/Warsaw)\nPrzew
- idywany czas trwania: 2 godz. 15 min.\nOficjalne źródło: https://plk.pl
- /mecz/223501/tasomix-rosiek-stal-ostrow-wielkopolski-vs-zastal-zielona-gor
- a
-LAST-MODIFIED:20261006T182111Z
+ l Zielona Góra\nStatus: Zakończony\nStatus źródłowy: finished\nID źr
+ ódłowe: 223501\nCzas miejscowy: 2026-11-08 17:30 (Europe/Warsaw)\nPrzewi
+ dywany czas trwania: 2 godz. 15 min.\nOficjalne źródło: https://plk.pl/
+ mecz/223501/tasomix-rosiek-stal-ostrow-wielkopolski-vs-zastal-zielona-gora
+LAST-MODIFIED:20261108T220237Z
 LOCATION:3mk Arena Ostrów\, Ostrów Wielkopolski \, Andrzeja Kowalczyka 1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://plk.pl/mecz/223501/tasomix-rosiek-stal-ostrow-wielkopolski-vs-
  zastal-zielona-gora
 X-AWAY-ID:769
-X-CONTENT-HASH:ef9fb3323a4a78948d89d08335e19ad5e5598bc982545c6226a4da0ebbd
- afa28
-X-GAME-STATUS:scheduled
+X-CONTENT-HASH:7c8a089a654057d3fd61c90f37eea61d9cee4e27e9140169a3f96c2b14c
+ cce52
+X-GAME-STATUS:finished
 X-HOME-ID:11309
 X-SEASON:2026/2027
 X-SOURCE:plk
 X-SOURCE-ID:223501
-X-SOURCE-STATUS:scheduled
+X-SOURCE-STATUS:finished
 X-SOURCE-TIMEZONE:Europe/Warsaw
 END:VEVENT
 BEGIN:VEVENT

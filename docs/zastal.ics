@@ -531,25 +531,26 @@ X-SOURCE-TIMEZONE:Europe/Warsaw
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Zastal – AMW Arka Gdynia
-DTSTART;VALUE=DATE:20261213
-DTEND;VALUE=DATE:20261214
-DTSTAMP:20261020T213613Z
+DTSTART:20261213T113000Z
+DTEND:20261213T134500Z
+DTSTAMP:20261110T194239Z
 UID:plk-223533@zastal-calendar
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:ORLEN Basket Liga,Koszykówka,Zastal
 DESCRIPTION:ORLEN Basket Liga\nSezon: 2026/2027\nRunda Zasadnicza · 10 ko
  lejka\nGospodarze: Zastal Zielona Góra\nGoście: AMW Arka Gdynia\nStatus:
-  Zaplanowany\nStatus źródłowy: scheduled\nID źródłowe: 223533\nGodzi
- na do ustalenia (TBD). Data również może się zmienić.\nOficjalne źr
- ódło: https://plk.pl/mecz/223533/zastal-zielona-gora-vs-amw-arka-gdynia
-LAST-MODIFIED:20261020T213613Z
+  Zaplanowany\nStatus źródłowy: scheduled\nID źródłowe: 223533\nCzas 
+ miejscowy: 2026-12-13 12:30 (Europe/Warsaw)\nPrzewidywany czas trwania: 2 
+ godz. 15 min.\nOficjalne źródło: https://plk.pl/mecz/223533/zastal-ziel
+ ona-gora-vs-amw-arka-gdynia
+LAST-MODIFIED:20261110T194239Z
 LOCATION:Centrum Rekreacyjno-Sportowe\, Zielona Góra\, Sulechowska 41
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://plk.pl/mecz/223533/zastal-zielona-gora-vs-amw-arka-gdynia
 X-AWAY-ID:121
-X-CONTENT-HASH:049d7800b6669a29099d7ce32d5401506b723338d1631c37d39294ad498
- 529c5
+X-CONTENT-HASH:11a65942ef027655d19a1f6bb8400b4d009e4015e108fa175eb8c6b92f1
+ 9e19a
 X-GAME-STATUS:scheduled
 X-HOME-ID:769
 X-SEASON:2026/2027
@@ -591,25 +592,26 @@ X-SOURCE-TIMEZONE:Europe/Brussels
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PGE Start Lublin – Zastal
-DTSTART;VALUE=DATE:20261218
-DTEND;VALUE=DATE:20261219
-DTSTAMP:20261019T131156Z
+DTSTART:20261218T191500Z
+DTEND:20261218T213000Z
+DTSTAMP:20261110T194239Z
 UID:plk-223541@zastal-calendar
-SEQUENCE:3
+SEQUENCE:4
 CATEGORIES:ORLEN Basket Liga,Koszykówka,Zastal
 DESCRIPTION:ORLEN Basket Liga\nSezon: 2026/2027\nRunda Zasadnicza · 11 ko
  lejka\nGospodarze: PGE Start Lublin\nGoście: Zastal Zielona Góra\nStatus
- : Zaplanowany\nStatus źródłowy: scheduled\nID źródłowe: 223541\nGodz
- ina do ustalenia (TBD). Data również może się zmienić.\nOficjalne źr
- ódło: https://plk.pl/mecz/223541/pge-start-lublin-vs-zastal-zielona-gora
-LAST-MODIFIED:20261019T131156Z
+ : Zaplanowany\nStatus źródłowy: scheduled\nID źródłowe: 223541\nCzas
+  miejscowy: 2026-12-18 20:15 (Europe/Warsaw)\nPrzewidywany czas trwania: 2
+  godz. 15 min.\nOficjalne źródło: https://plk.pl/mecz/223541/pge-start-
+ lublin-vs-zastal-zielona-gora
+LAST-MODIFIED:20261110T194239Z
 LOCATION:Hala im. Zdzisława Niedzieli\, Lublin\, Al.Zygmuntowskie 4
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://plk.pl/mecz/223541/pge-start-lublin-vs-zastal-zielona-gora
 X-AWAY-ID:769
-X-CONTENT-HASH:00260e8ef3da6a375034e6a8c2c0d4124c5089ad23d06559eba1ff8386b
- 3118a
+X-CONTENT-HASH:8f844c8a7805ab403dd19a1cedcf5f976426cb0244005d84433ed63ef04
+ c9002
 X-GAME-STATUS:scheduled
 X-HOME-ID:22
 X-SEASON:2026/2027
@@ -651,25 +653,26 @@ X-SOURCE-TIMEZONE:Europe/Bucharest
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Zastal – King Szczecin
-DTSTART;VALUE=DATE:20261226
-DTEND;VALUE=DATE:20261227
-DTSTAMP:20261020T213613Z
+DTSTART:20261226T113000Z
+DTEND:20261226T134500Z
+DTSTAMP:20261110T194239Z
 UID:plk-223549@zastal-calendar
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:ORLEN Basket Liga,Koszykówka,Zastal
 DESCRIPTION:ORLEN Basket Liga\nSezon: 2026/2027\nRunda Zasadnicza · 12 ko
  lejka\nGospodarze: Zastal Zielona Góra\nGoście: King Szczecin\nStatus: Z
- aplanowany\nStatus źródłowy: scheduled\nID źródłowe: 223549\nGodzina
-  do ustalenia (TBD). Data również może się zmienić.\nOficjalne źród
- ło: https://plk.pl/mecz/223549/zastal-zielona-gora-vs-king-szczecin
-LAST-MODIFIED:20261020T213613Z
+ aplanowany\nStatus źródłowy: scheduled\nID źródłowe: 223549\nCzas mi
+ ejscowy: 2026-12-26 12:30 (Europe/Warsaw)\nPrzewidywany czas trwania: 2 go
+ dz. 15 min.\nOficjalne źródło: https://plk.pl/mecz/223549/zastal-zielon
+ a-gora-vs-king-szczecin
+LAST-MODIFIED:20261110T194239Z
 LOCATION:Centrum Rekreacyjno-Sportowe\, Zielona Góra\, Sulechowska 41
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://plk.pl/mecz/223549/zastal-zielona-gora-vs-king-szczecin
 X-AWAY-ID:943
-X-CONTENT-HASH:76fc9b7a92eca1cc20346e724c2b18379f462d9f346f806ff88e4008219
- 6666a
+X-CONTENT-HASH:883c158d13497b5d7cd4c68dff3aa78e4f6721335bd7f38c5d459061e0b
+ 61cb0
 X-GAME-STATUS:scheduled
 X-HOME-ID:769
 X-SEASON:2026/2027
@@ -680,28 +683,28 @@ X-SOURCE-TIMEZONE:Europe/Warsaw
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Górnik Zamek Książ Wałbrzych – Zastal
-DTSTART;VALUE=DATE:20261230
-DTEND;VALUE=DATE:20261231
-DTSTAMP:20261013T224409Z
+DTSTART:20261230T163000Z
+DTEND:20261230T184500Z
+DTSTAMP:20261110T194239Z
 UID:plk-223557@zastal-calendar
-SEQUENCE:3
+SEQUENCE:4
 CATEGORIES:ORLEN Basket Liga,Koszykówka,Zastal
 DESCRIPTION:ORLEN Basket Liga\nSezon: 2026/2027\nRunda Zasadnicza · 13 ko
  lejka\nGospodarze: Górnik Zamek Książ Wałbrzych\nGoście: Zastal Zielo
  na Góra\nStatus: Zaplanowany\nStatus źródłowy: scheduled\nID źródło
- we: 223557\nGodzina do ustalenia (TBD). Data również może się zmienić
- .\nOficjalne źródło: https://plk.pl/mecz/223557/gornik-zamek-ksiaz-walb
- rzych-vs-zastal-zielona-gora
-LAST-MODIFIED:20261013T224409Z
+ we: 223557\nCzas miejscowy: 2026-12-30 17:30 (Europe/Warsaw)\nPrzewidywany
+  czas trwania: 2 godz. 15 min.\nOficjalne źródło: https://plk.pl/mecz/2
+ 23557/gornik-zamek-ksiaz-walbrzych-vs-zastal-zielona-gora
+LAST-MODIFIED:20261110T194239Z
 LOCATION:Hala Widowiskowo-Sportowa Aqua Zdrój\, Wałbrzych\, ul. Ratuszow
  a 6
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://plk.pl/mecz/223557/gornik-zamek-ksiaz-walbrzych-vs-zastal-ziel
  ona-gora
 X-AWAY-ID:769
-X-CONTENT-HASH:1226f2ca0ec0246394ddbca30f6d3b299b637223d2d980836899f542191
- d78bb
+X-CONTENT-HASH:6f726d66b34756f5badaaccd730852fe8f28deb2f122e9382cd2daec996
+ 823c7
 X-GAME-STATUS:scheduled
 X-HOME-ID:11296
 X-SEASON:2026/2027

@@ -350,31 +350,31 @@ BEGIN:VEVENT
 SUMMARY:Zastal – NHSZ-Szolnoki Olajbanyasz
 DTSTART:20261111T173000Z
 DTEND:20261111T194500Z
-DTSTAMP:20260929T125118Z
+DTSTAMP:20261112T004134Z
 UID:fiba-135710@zastal-calendar
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:FIBA Europe Cup,Koszykówka,Zastal
 DESCRIPTION:FIBA Europe Cup\nSezon: 2026/2027\nRegular Season · B\nGospod
- arze: Zastal Zielona Gora\nGoście: NHSZ-Szolnoki Olajbanyasz\nStatus: Zap
- lanowany\nStatus źródłowy: INIT\nID źródłowe: 135710\nCzas miejscowy
- : 2026-11-11 18:30 (Europe/Warsaw)\nPrzewidywany czas trwania: 2 godz. 15 
- min.\nOficjalne źródło: https://www.fiba.basketball/en/events/fiba-euro
- pe-cup-26-27/games/135710-ZIE-OLAJ
-LAST-MODIFIED:20260929T125118Z
+ arze: Zastal Zielona Gora\nGoście: NHSZ-Szolnoki Olajbanyasz\nStatus: Zak
+ ończony\nStatus źródłowy: VALID\nID źródłowe: 135710\nCzas miejscow
+ y: 2026-11-11 18:30 (Europe/Warsaw)\nPrzewidywany czas trwania: 2 godz. 15
+  min.\nOficjalne źródło: https://www.fiba.basketball/en/events/fiba-eur
+ ope-cup-26-27/games/135710-ZIE-OLAJ
+LAST-MODIFIED:20261112T004134Z
 LOCATION:Centrum Rekreacyjno-Sportowe Zielona Gora\, Zielona Gora\, Poland
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.fiba.basketball/en/events/fiba-europe-cup-26-27/games/1357
  10-ZIE-OLAJ
 X-AWAY-ID:285082
-X-CONTENT-HASH:21a6907814342a2a0f56f020ebaa35f67f282a8065d86a735476d68a42e
- 19eaa
-X-GAME-STATUS:scheduled
+X-CONTENT-HASH:d1b818cc993e130f2910939617f056cb0b4b1a17111c7293c57243a2a04
+ 2370d
+X-GAME-STATUS:finished
 X-HOME-ID:285088
 X-SEASON:2026/2027
 X-SOURCE:fiba
 X-SOURCE-ID:135710
-X-SOURCE-STATUS:INIT
+X-SOURCE-STATUS:VALID
 X-SOURCE-TIMEZONE:Europe/Warsaw
 END:VEVENT
 BEGIN:VEVENT

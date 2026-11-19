@@ -411,31 +411,31 @@ BEGIN:VEVENT
 SUMMARY:Patrioti Levice – Zastal
 DTSTART:20261119T180000Z
 DTEND:20261119T201500Z
-DTSTAMP:20260921T215815Z
+DTSTAMP:20261119T203422Z
 UID:fiba-135714@zastal-calendar
-SEQUENCE:4
+SEQUENCE:5
 CATEGORIES:FIBA Europe Cup,Koszykówka,Zastal
 DESCRIPTION:FIBA Europe Cup\nSezon: 2026/2027\nRegular Season · B\nGospod
- arze: Patrioti Levice\nGoście: Zastal Zielona Gora\nStatus: Zaplanowany\n
- Status źródłowy: INIT\nID źródłowe: 135714\nCzas miejscowy: 2026-11-
- 19 19:00 (Europe/Bratislava)\nPrzewidywany czas trwania: 2 godz. 15 min.\n
- Oficjalne źródło: https://www.fiba.basketball/en/events/fiba-europe-cup
- -26-27/games/135714-LEV-ZIE
-LAST-MODIFIED:20260921T215815Z
+ arze: Patrioti Levice\nGoście: Zastal Zielona Gora\nStatus: Zakończony\n
+ Status źródłowy: VALID\nID źródłowe: 135714\nCzas miejscowy: 2026-11
+ -19 19:00 (Europe/Bratislava)\nPrzewidywany czas trwania: 2 godz. 15 min.
+ \nOficjalne źródło: https://www.fiba.basketball/en/events/fiba-europe-c
+ up-26-27/games/135714-LEV-ZIE
+LAST-MODIFIED:20261119T203422Z
 LOCATION:Haleon Arena\, Levice\, Slovakia
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.fiba.basketball/en/events/fiba-europe-cup-26-27/games/1357
  14-LEV-ZIE
 X-AWAY-ID:285088
-X-CONTENT-HASH:aedd4a9c0abb5dc22c338cf69038985b2cbb96e0ae559c57a9fa4acc67c
- 802d1
-X-GAME-STATUS:scheduled
+X-CONTENT-HASH:65e55dd87727d066e9c0bfacc08a12469a0c89851a2be2f4c8c614d095f
+ 2819c
+X-GAME-STATUS:finished
 X-HOME-ID:285344
 X-SEASON:2026/2027
 X-SOURCE:fiba
 X-SOURCE-ID:135714
-X-SOURCE-STATUS:INIT
+X-SOURCE-STATUS:VALID
 X-SOURCE-TIMEZONE:Europe/Bratislava
 END:VEVENT
 BEGIN:VEVENT

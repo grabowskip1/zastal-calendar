@@ -442,30 +442,30 @@ BEGIN:VEVENT
 SUMMARY:Zastal – Dziki Warszawa
 DTSTART:20261122T113000Z
 DTEND:20261122T134500Z
-DTSTAMP:20261020T213613Z
+DTSTAMP:20261122T193719Z
 UID:plk-223517@zastal-calendar
-SEQUENCE:3
+SEQUENCE:4
 CATEGORIES:ORLEN Basket Liga,Koszykówka,Zastal
 DESCRIPTION:ORLEN Basket Liga\nSezon: 2026/2027\nRunda Zasadnicza · 8 kol
  ejka\nGospodarze: Zastal Zielona Góra\nGoście: Dziki Warszawa\nStatus: Z
- aplanowany\nStatus źródłowy: scheduled\nID źródłowe: 223517\nCzas mi
- ejscowy: 2026-11-22 12:30 (Europe/Warsaw)\nPrzewidywany czas trwania: 2 go
- dz. 15 min.\nOficjalne źródło: https://plk.pl/mecz/223517/zastal-zielon
- a-gora-vs-dziki-warszawa
-LAST-MODIFIED:20261020T213613Z
+ akończony\nStatus źródłowy: finished\nID źródłowe: 223517\nCzas mie
+ jscowy: 2026-11-22 12:30 (Europe/Warsaw)\nPrzewidywany czas trwania: 2 god
+ z. 15 min.\nOficjalne źródło: https://plk.pl/mecz/223517/zastal-zielona
+ -gora-vs-dziki-warszawa
+LAST-MODIFIED:20261122T193719Z
 LOCATION:Centrum Rekreacyjno-Sportowe\, Zielona Góra\, Sulechowska 41
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://plk.pl/mecz/223517/zastal-zielona-gora-vs-dziki-warszawa
 X-AWAY-ID:11257
-X-CONTENT-HASH:102e15887b047453d898ffc8ba60ddec0cc02ccf64c16b63041e0cd0e59
- 88e0b
-X-GAME-STATUS:scheduled
+X-CONTENT-HASH:c04a6016173187b3d1504eba13a58661b22d8b37fdbddd718cc4b019daa
+ 597de
+X-GAME-STATUS:finished
 X-HOME-ID:769
 X-SEASON:2026/2027
 X-SOURCE:plk
 X-SOURCE-ID:223517
-X-SOURCE-STATUS:scheduled
+X-SOURCE-STATUS:finished
 X-SOURCE-TIMEZONE:Europe/Warsaw
 END:VEVENT
 BEGIN:VEVENT
